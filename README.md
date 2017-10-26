@@ -1,0 +1,2 @@
+# PythonCrashCourse
+Python learning notes.
