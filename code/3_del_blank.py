@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding=utf-8
+# You can use lstrip() and strip() too.
 
 temp1 = ' python'
 temp2 = 'python '
