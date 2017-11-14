@@ -6,6 +6,12 @@ Python learning notes.This is not my first time to learn Python,but its my first
 print("Hello Python!")
 
 ```
+## Update
+>>11-14:add function
+
+## Purpose
+Enhence my coding ability and develop a python game.Just for fun!
+
 ## Python之禅
 ```Python
 import this
