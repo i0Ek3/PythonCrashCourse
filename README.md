@@ -37,4 +37,26 @@ import this
     If the implementation is easy to explain, it may be a good idea.
     Namespaces are one honking great idea -- let's do more of those!
 
+## Notes
+* Something you should know about write functions:
+    * 给函数指定描述名称,且只用小写字母和下划线,模块名也如此
+    ```Python
+    def function_name(parameter list) //recomand
+    ~~def functionName(parameter list)~~
+    ```
+    * 给形参指定默认值时,等号两边不要有空格,对于函数调用中的关键字实参也如此
+    ```Python
+    def function_name(parameter1,parameter2='default value')
+    function_name(value1,value2='value')
+    ```
+    * 不建议一行代码过长(>78字符),如果过长可使用回车后添加两个tab键
+    ```Python
+    def make(
+            parameter1,parameter2,parameter3,
+            parameter4,parameter5,parameter6):
+        function body... 
+    ```
+    * 所有的import都应该放在文件开头,除非文件开头使用了注释
+
+
 ## Instances
