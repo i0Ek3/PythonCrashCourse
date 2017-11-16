@@ -7,9 +7,9 @@ print("Hello Python!")
 
 ```
 ## Update
->
->>11-14:add function
->>11-16:just add something about function,add other contents later...
+
+>11-14:add function<br>
+>11-16:just add something about function,add other contents later...<br>
 
 ## Purpose
 Enhence my coding ability and develop a python game.Just for fun!
