@@ -62,3 +62,4 @@ import this
 
 
 ## Instances
+[click me](https://github.com/i0Ek3/PythonCrashCourse/tree/master/code)
