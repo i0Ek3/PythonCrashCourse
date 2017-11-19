@@ -6,10 +6,6 @@ Python learning notes.This is not my first time to learn Python,but its my first
 print("Hello Python!")
 
 ```
-## Update
-
->11-14:add function<br>
->11-16:just add something about function,add other contents later...<br>
 
 ## Purpose
 Enhence my coding ability and develop a python game.Just for fun!
@@ -59,7 +55,18 @@ import this
         function body... 
     ```
     * 所有的import都应该放在文件开头,除非文件开头使用了注释
-
+    * 在Python2.7中,类的创建如下:
+    ```Python
+    class ClassName(object):
+        --snip--
+    ```
 
 ## Instances
 [click me](https://github.com/i0Ek3/PythonCrashCourse/tree/master/code)
+
+
+## Update
+
+>11-14:add function<br>
+>11-16:just add something about function,add other contents later...<br>
+>11-19:add class contents.<br>
