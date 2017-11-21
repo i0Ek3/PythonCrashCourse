@@ -60,6 +60,11 @@ import this
     class ClassName(object):
         --snip--
     ```
+    * 类名应采用驼峰命名法,即将类名中的每个单词首字母都大写,而不使用下划线．
+    * 实例名和模块名都应采用小写+下划线的格式.
+    * 对于每一个类,类定义后都应包含一个文档字符串.
+    * 需要同时导入标准库模块和第三方及个人模块时,应先编写标准库模块语句后添加一个空行，再编写个人及第三方模块.
+
 
 ## Instances
 [click me](https://github.com/i0Ek3/PythonCrashCourse/tree/master/code)
@@ -71,4 +76,4 @@ import this
 >11-16:just add something about function,add other contents later...<br>
 >11-19:add class contents.<br>
 >11-20:add inherit contents.<br>
->11-21:add something later.<br>
+>11-21:add something later.Like:import.<br>
