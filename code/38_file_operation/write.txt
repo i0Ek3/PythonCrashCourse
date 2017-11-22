@@ -1,0 +1,3 @@
+I love python.
+I love you.
+Do you like python?
