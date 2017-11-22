@@ -37,24 +37,24 @@ import this
 
 ## Notes
 * Something you should know about write functions:
-    * 给函数指定描述名称,且只用小写字母和下划线,模块名也如此
+    * 给函数指定描述名称,且只用小写字母和下划线,模块名也如此:
     ```Python
     def function_name(parameter list) //recommand
     def functionName(parameter list) //unrecommand
     ```
-    * 给形参指定默认值时,等号两边不要有空格,对于函数调用中的关键字实参也如此
+    * 给形参指定默认值时,等号两边不要有空格,对于函数调用中的关键字实参也如此:
     ```Python
     def function_name(parameter1,parameter2='default value')
     function_name(value1,value2='value')
     ```
-    * 不建议一行代码过长(>78字符),如果过长可使用回车后添加两个tab键
+    * 不建议一行代码过长(>78字符),如果过长可使用回车后添加两个tab键:
     ```Python
     def make(
             parameter1,parameter2,parameter3,
             parameter4,parameter5,parameter6):
         function body... 
     ```
-    * 所有的import都应该放在文件开头,除非文件开头使用了注释
+    * 所有的import都应该放在文件开头,除非文件开头使用了注释.
     * 在Python2.7中,类的创建如下:
     ```Python
     class ClassName(object):
@@ -71,9 +71,9 @@ import this
 
 
 ## Update
-
->11-14:add function<br>
->11-16:just add something about function,add other contents later...<br>
->11-19:add class contents.<br>
->11-20:add inherit contents.<br>
->11-21:add something later.Like:import.<br>
+>2017
+>>11-14:add function<br>
+>>11-16:just add something about function,add other contents later...<br>
+>>11-19:add class contents.<br>
+>>11-20:add inherit contents.<br>
+>>11-21:add something later.Like import part.<br>
