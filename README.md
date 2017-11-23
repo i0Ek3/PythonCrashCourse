@@ -70,7 +70,7 @@ import this
 [click me](https://github.com/i0Ek3/PythonCrashCourse/tree/master/code)
 
 
-## Update
+## Updates
 >2017
 >>11-14:add function<br>
 >>11-16:just add something about function,add other contents later...<br>
