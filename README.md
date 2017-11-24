@@ -78,3 +78,4 @@ import this
 >>11-20:add inherit contents.<br>
 >>11-21:add something later.Like import part.<br>
 >>11-22:add file operation and exception contents.<br>
+>>11-24:add how to stored data use json.<br> 
