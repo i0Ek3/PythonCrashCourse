@@ -79,4 +79,4 @@ import this
 >>11-21:add something later.Like import part.<br>
 >>11-22:add file operation and exception contents.<br>
 >>11-24:add how to stored data use json.And add test model after my class end today!<br>
-
+>>>actually thays really waste time to write,but I finished something and remains I commit tommorow!Thats all.<br>
