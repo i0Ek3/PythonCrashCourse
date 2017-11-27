@@ -1,0 +1,3930 @@
+    1  vim
+    2  vim 1.c
+    3  cd 
+    4  vim ~/.zshrc
+    5  zsh
+    6  ll
+    7  vim 
+    8  vim 1.c
+    9  sudo snap list
+   10  sudo apt install snapcraft
+   11  sudo apt install mldonkey
+   12  amule
+   13  sudo apt install amule
+   14  sudo apt install amule\n: 1509692837:0;sudo apt install amule
+   15  sudo apt remove --purge news
+   16  sudo apt install aptitude
+   17  sudo apt-get install paper-gtk-theme paper-icon-theme
+   18  sudo add-apt-repository ppa:snwh/pulp
+   19  sudo apt-get update
+   20  sudo apt-get install paper-icon-theme  paper-cursor-theme paper-gtk-theme
+   21  ll
+   22  cd
+   23  ll
+   24  vim
+   25  ll
+   26  sudo dpkg -i *
+   27  sudo apt -f install
+   28  sudo apt remove --purge wine-qqintl:i386
+   29  vim
+   30  sudo add-apt-repository ppa:noobslab/themes 
+   31  sudo apt-get update
+   32  sudo apt-get install flatabulous-theme
+   33  sudo add-apt-repository ppa:noobslab/icons
+   34  sudo apt-get update
+   35  sudo rm /var/lib/apt/lists/lock
+   36  sudo apt-get update
+   37  sudo apt-get install ultra-flat-icons
+   38  sudo add-apt-repository ppa:noobslab/icons
+   39  sudo apt-get update
+   40  sudo rm /var/lib/apt/lists/lock
+   41  sudo apt-get update
+   42  sudo apt-get install ultra-flat-icons
+   43  sudo apt-get update
+   44  sudo rm /var/lib/apt/lists/lock
+   45  cd /etc/apt
+   46  ll
+   47  cd sources.list.d
+   48  ll
+   49  sudo rm noobslab-ubuntu-icons*
+   50  sudo apt-get update
+   51  差点
+   52  cd 
+   53  ll
+   54  sudo apt upgrade
+   55  sudo apt autoremove
+   56  vim
+   57  vim 1.cpp
+   58  cd vimplus
+   59  ll
+   60  vim README.md
+   61  cd 
+   62  ll
+   63  ls -alh
+   64  ll
+   65  sudo rm -rf QQIntl_Backup_2017-11-03-1558
+   66  cp .ycm_extra_conf.py /media/ianpasm/ianpasmer/coding
+   67  cp .ycm_extra_conf.py /media/ianpasm/ianpasmer/
+   68  vim 1.java
+   69  vim 1.c
+   70  vim
+   71  cd /media
+   72  cd ianpasm
+   73  cd ianpasmer
+   74  ll
+   75  cp ~/.ycm_extra_conf.py github
+   76  cp ~/.ycm_extra_conf.py build
+   77  vim
+   78  wget
+   79  curl
+   80  ll
+   81  cd /mediua
+   82  cd /media
+   83  ll
+   84  cd ianpasm
+   85  cd iq
+   86  cd ianpasmer
+   87  ll
+   88  vim BigData_Sec.txt
+   89  gedit BigData_Sec.txt
+   90  ll
+   91  cd github
+   92  ll
+   93  vim
+   94  ll
+   95  mkdir vim
+   96  mkdir vimdev
+   97  cd vimdev
+   98  touch vim.c vim.cpp vim.java vim.py vim.go vim.vim vim.rb vim.pl vim.sh vim.scss vim.scala vim.rss vim.ico vim.js vim.xml vim.yml 
+   99  ll
+  100  vim
+  101  sudo rm -rf ~/vimdev
+  102  ll
+  103  clear
+  104  ll
+  105  cd AlgorithmNotes
+  106  ll
+  107  cd code
+  108  ll
+  109  vim pat_b001.cpp
+  110  cd /media/ianpasm/ianpasmer/github/AlgorithmNotes/code
+  111  ll
+  112  clang++ pat_b001.cpp
+  113  ll
+  114  vim pat_b001.cpp
+  115  clang++ pat_b001.cpp
+  116  ./a.out
+  117  rm a.out
+  118  vim pat_b001.cpp
+  119  clang++ pat_b001.cpp
+  120  ./a.out
+  121  rm a.out
+  122  vim pat_b001.cpp
+  123  ll
+  124  vim pat_1032.cpp
+  125  wget ftp://ygdy8:ygdy8@yg45.dydytt.net:7070/[阳光电影www.ygdy8.com].战lang2.HD.720p.国语中字.mkv
+  126  curl ftp://ygdy8:ygdy8@yg45.dydytt.net:7070/[阳光电影www.ygdy8.com].战lang2.HD.720p.国语中字.mkv
+  127  bash 
+  128  g++ pat_1032.cpp
+  129  ./a.out
+  130  vim pat_1032.cpp
+  131  g++ pat_1032.cpp
+  132  ./a.out
+  133  ll
+  134  rm a.out
+  135  mv pat_1032.cpp pat_b1032.cpp
+  136  mv pat_b001.cpp pat_b1001.cpp
+  137  ll
+  138  cd ..
+  139  ll
+  140  git add *
+  141  git commit -m "add pat"
+  142  git config --global user.email kno30826@gmail.com
+  143  git config --global user.name "i0Ek3"
+  144  git commit -m "add pat"
+  145  git push origin master
+  146  ll
+  147  mkdir codeblock
+  148  mv 1* codeblock
+  149  ll
+  150  cd /meida
+  151  cd /media
+  152  cd ianpasm
+  153  cd ianpasmer
+  154  ll
+  155  cd coding
+  156  ll
+  157  clear
+  158  ll
+  159  cd excise
+  160  ll
+  161  cd ../19
+  162  ll
+  163  vim
+  164  ll
+  165  cd /media/ianpasm/ianpasmer/coding/excise
+  166  ll
+  167  clang++ -o 171105-point1 171105-point1.cpp
+  168  ll
+  169  ./171105-point1
+  170  cat 171105-point1
+  171  clear
+  172  cat 171105-point1.cpp
+  173  ./1711
+  174  ./171105-point1
+  175  ll
+  176  clang++ -o 171105-point1 171105-point1.cpp
+  177  ./171105-point1
+  178  clang++ -o 171105-point1 171105-point1.cpp
+  179  ./171105-point1
+  180  cat 171105-point1.cpp
+  181  ./171105-point1
+  182  clang++ -o 171105-point1 171105-point1.cpp
+  183  ./171105-point1
+  184  cat 171105-point1.cpp
+  185  clear
+  186  python3
+  187  cd /media/ianpasm/ianpasmer/github/PythonCrashCourse
+  188  ll
+  189  cd code
+  190  ll
+  191  vim 5_if-else.py
+  192  python 5_if-else.py
+  193  vim 5_if-else.py
+  194  python 5_if-else.py
+  195  vim 5_if-else.py
+  196  python 5_if-else.py
+  197  vim 5_if-else.py
+  198  python 5_if-else.py
+  199  vim 5_if-else.py
+  200  python 5_if-else.py
+  201  ll
+  202  vim 6_equ_unequ.py
+  203  python 6_equ_unequ.py
+  204  vim 6_equ_unequ.py
+  205  python 6_equ_unequ.py
+  206  vim 6_equ_unequ.py
+  207  python 6_equ_unequ.py
+  208  vim 6_equ_unequ.py
+  209  python 6_equ_unequ.py
+  210  vim 6_equ_unequ.py
+  211  python 6_equ_unequ.py
+  212  vim 6_equ_unequ.py
+  213  python 6_equ_unequ.py
+  214  vim 6_equ_unequ.py
+  215  ll
+  216  python 6_equ_unequ.py
+  217  vim note.txt
+  218  ll
+  219  vim 7_not_in.py
+  220  python 7_not_in.py
+  221  vim 7_not_in.py
+  222  python 7_not_in.py
+  223  vim 7_not_in.py
+  224  ll
+  225  vim 8_for_if.py
+  226  python 8_for_if.py
+  227  vim 8_for_if.py
+  228  python 8_for_if.py
+  229  vim 8_for_if.py
+  230  python 8_for_if.py
+  231  vim 8_for_if.py
+  232  python 8_for_if.py
+  233  vim 8_for_if.py
+  234  python 8_for_if.py
+  235  vim 8_for_if.py
+  236  python 8_for_if.py
+  237  ll
+  238  vim 9_dict.py
+  239  python  9_dict.py
+  240  vim 9_dict.py
+  241  python  9_dict.py
+  242  vim 9_dict.py
+  243  python  9_dict.py
+  244  vim 9_dict.py
+  245  python  9_dict.py
+  246  vim 9_dict.py
+  247  python  9_dict.py
+  248  vim 9_dict.py
+  249  python  9_dict.py
+  250  vim 9_dict.py
+  251  python  9_dict.py
+  252  vim 9_dict.py
+  253  python  9_dict.py
+  254  vim 9_dict.py
+  255  python  9_dict.py
+  256  vim 9_dict.py
+  257  python  9_dict.py
+  258  vim 9_dict.py
+  259  python  9_dict.py
+  260  vim 9_dict.py
+  261  python  9_dict.py
+  262  vim 9_dict.py
+  263  python  9_dict.py
+  264  vim 9_dict.py
+  265  python  9_dict.py
+  266  vim 9_dict.py
+  267  python  9_dict.py
+  268  vim 9_dict.py
+  269  python  9_dict.py
+  270  vim 9_dict.py
+  271  python  9_dict.py
+  272  vim 9_dict.py
+  273  python  9_dict.py
+  274  vim 9_dict.py
+  275  python  9_dict.py
+  276  vim 9_dict.py
+  277  python  9_dict.py
+  278  vim 9_dict.py
+  279  python  9_dict.py
+  280  vim 9_dict.py
+  281  python  9_dict.py
+  282  ll
+  283  vim 10_free_dict.py
+  284  python 10_free_dict.py
+  285  vim 10_free_dict.py
+  286  python 10_free_dict.py
+  287  vim 10_free_dict.py
+  288  python 10_free_dict.py
+  289  vim 10_free_dict.py
+  290  python 10_free_dict.py
+  291  vim 10_free_dict.py
+  292  python 10_free_dict.py
+  293  vim 10_free_dict.py
+  294  python 10_free_dict.py
+  295  vim 10_free_dict.py
+  296  python 10_free_dict.py
+  297  vim 10_free_dict.py
+  298  ll
+  299  cd ../../AlgorithmNotes
+  300  ll
+  301  cd code
+  302  ll
+  303  vim codeup_1934.cpp
+  304  clang++ codeup_1934.cpp
+  305  ./a.out
+  306  vim codeup_1934.cpp
+  307  clang++ codeup_1934.cpp
+  308  ./a.out
+  309  vim codeup_1934.cpp
+  310  clang++ codeup_1934.cpp
+  311  ./a.out
+  312  vim codeup_1934.cpp
+  313  clang++ codeup_1934.cpp
+  314  ./a.out
+  315  vim codeup_1934.cpp
+  316  clang++ codeup_1934.cpp
+  317  ./a.out
+  318  vim codeup_1934.cpp
+  319  clang++ codeup_1934.cpp
+  320  vim codeup_1934.cpp
+  321  clang++ codeup_1934.cpp
+  322  ./a.out
+  323  vim codeup_1934.cpp
+  324  clang++ codeup_1934.cpp
+  325  ./a.out
+  326  ll
+  327  cd ..
+  328  ll
+  329  git add *
+  330  git commit -m "add codeup" 
+  331  git push origin master
+  332  cd ..
+  333  ll
+  334  cd PythonCrashCourse
+  335  ll
+  336  git add * 
+  337  git commit -m "
+  338  git commit -m "add some .py files"
+  339  git push origin master
+  340  ll
+  341  cd ../
+  342  ll
+  343  cd AlgorithmNotes
+  344  ll
+  345  cd code
+  346  ll
+  347  rm a.out
+  348  git rm a.out
+  349  git add *
+  350  git commit -m "add some files"
+  351  git push origin master
+  352  ps
+  353  ll
+  354  vim codeup_1934.cpp
+  355  cd /media/ianpasm/ianpasmer/github/AlgorithmNotes
+  356  ll
+  357  cd code
+  358  ll
+  359  clang++ codeup_1934.cpp
+  360  ./a.out
+  361  clang++ codeup_1934.cpp
+  362  ./a.out
+  363  clang++ codeup_1934.cpp
+  364  ./a.out
+  365  clang++ codeup_1934.cpp
+  366  ./a.out
+  367  adb devices
+  368  sudo apt install adb
+  369  adb
+  370  adb devices
+  371  sudo su
+  372  ll
+  373  cd /media
+  374  kll
+  375  ll
+  376  cd ianpasm
+  377  ll
+  378  find
+  379  find . -name wifi*
+  380  find . -name *.db
+  381  find . -name *wifi*
+  382  cd /etc/NetworkManager/system-connections
+  383  ll
+  384  cat vivo\ X6D
+  385  sudo cat vivo\ X6D
+  386  ll
+  387  cd /data/misc/wifi/
+  388  ll
+  389  cd data
+  390  ll
+  391  cd wldh
+  392  ll
+  393  cact PhoneNumberQuery.dat
+  394  cat PhoneNumberQuery.dat
+  395  vim PhoneNumberQuery.dat
+  396  clear
+  397  ll
+  398  cd ../..
+  399  ll
+  400  cd WifiMasterKey
+  401  ll
+  402  cd apk
+  403  ll
+  404  cd ..
+  405  ll
+  406  cat inital
+  407  ll
+  408  cd WiFiMasterPic
+  409  ll
+  410  cd ..
+  411  cd plugins
+  412  ll
+  413  cd 
+  414  cd -
+  415  cd .../
+  416  cd ..?
+  417  cd ../../
+  418  ll
+  419  cd wificheck
+  420  ll
+  421  cd 
+  422  cd -
+  423  cd ..
+  424  find . -name psk
+  425  CD 
+  426  cd 
+  427  clear
+  428  ,,adb shell
+  429  adb shell
+  430  adb devices
+  431  sudo adb devices
+  432  redis
+  433  redis -v
+  434  bash
+  435  ll
+  436  sudo make && sudo make install 
+  437  sudo python -m easy_install redis hiredis
+  438  sudo apt remove --purge postman
+  439  redis
+  440  redis -v
+  441  hiredis
+  442  sudo apt install redis
+  443  ll
+  444  cat INSTALL
+  445  cat README.md
+  446  make test
+  447  adb shell
+  448  sudo su
+  449  ll
+  450  cd player
+  451  ll
+  452  cd src
+  453  ./redis-server
+  454  sudo apt update && sudo apt upgrade
+  455  sudo apt update
+  456  sudo apt upgrade
+  457  ll
+  458  clang++ codeup_1934.cpp
+  459  ./a.out
+  460  clang++ codeup_1934.cpp
+  461  ./a.out
+  462  clang++ codeup_1934.cpp
+  463  ./a.out
+  464  clang++ codeup_1934.cpp
+  465  ./a.out
+  466  clang++ codeup_1934.cpp
+  467  ./a.out
+  468  clang++ codeup_1934.cpp
+  469  ./a.out
+  470  clang++ codeup_1934.cpp
+  471  ./a.out
+  472  ll
+  473  rm a.out
+  474  git add codeup_1934.cpp
+  475  git commit -m "fixed codeup_1934.cpp" 
+  476  git push origin master
+  477  ll
+  478  cd Downloads
+  479  ll
+  480  adb install firefly.apk 
+  481  sudo apt install redshift
+  482  redshift
+  483  cd /media
+  484  cd ianpasm/ianpasmer
+  485  ll
+  486  cd github
+  487  ll
+  488  git clone https://github.com/XX-net/XX-Net.git
+  489  sudo apt install miredo
+  490  ifconfig
+  491  ll
+  492  cd Downloads
+  493  ll
+  494  zip
+  495  zip XX-Net-3.7.8.zip
+  496  zip -l XX-Net-3.7.8.zip
+  497  ll
+  498  ./xx_net.sh
+  499  sudo ./xx_net.sh
+  500  ./start
+  501  sudo ./start
+  502  ll
+  503  git clone https://github.com/XX-net/XX-Net.git
+  504  ll
+  505  cd XX-Net
+  506  LL
+  507  ll
+  508  clear
+  509  ll
+  510  ./xx_net.sh
+  511  sudo ./xx_net.sh
+  512  sudo ./start
+  513  ll
+  514  vim pat_b1036.cpp
+  515  cd ..
+  516  ll
+  517  cd PythonCrashCourse
+  518  ll
+  519  cd code
+  520  ll
+  521  vim 11_sorted.py
+  522  python 11_sorted.py
+  523  vim 11_sorted.py
+  524  python 11_sorted.py
+  525  vim 11_sorted.py
+  526  python 11_sorted.py
+  527  vim 11_sorted.py
+  528  python 11_sorted.py
+  529  vim 11_sorted.py
+  530  python 11_sorted.py
+  531  git add 11_sorted.py
+  532  git commit -m "add 11*.py"
+  533  git push origin master
+  534  ll
+  535  vim 11_sorted.py
+  536  python 11_sorted.py
+  537  ll
+  538  vim 11_sorted.py
+  539  ll
+  540  vim 12_embed.py
+  541  python 12_embed.py
+  542  vim 12_embed.py
+  543  python 12_embed.py
+  544  vim 12_embed.py
+  545  python 12_embed.py
+  546  vim 12_embed.py
+  547  python 12_embed.py
+  548  ll
+  549  vim 12_embed.py
+  550  python 12_embed.py
+  551  vim 12_embed.py
+  552  python 12_embed.py
+  553  vim 12_embed.py
+  554  python 12_embed.py
+  555  cat 12_embed.py
+  556  vim 12_embed.py
+  557  cat 12_embed.py
+  558  python 12_embed.py
+  559  vim 12_embed.py
+  560  python 12_embed.py
+  561  vim 12_embed.py
+  562  python 12_embed.py
+  563  vim 12_embed.py
+  564  python 12_embed.py
+  565  ll
+  566  clear
+  567  ll
+  568  vim 13_dict_in_list.py
+  569  python 13_dict_in_list.py
+  570  vim 13_dict_in_list.py
+  571  python 13_dict_in_list.py
+  572  vim 13_dict_in_list.py
+  573  python 13_dict_in_list.py
+  574  vim +19 13_dict_in_list.py
+  575  python 13_dict_in_list.py
+  576  vim +19 13_dict_in_list.py
+  577  python 13_dict_in_list.py
+  578  vim 14_dict_in_dict.py
+  579  ll
+  580  clean
+  581  vim 14_dict_in_dict.py
+  582  ll
+  583  cd ..
+  584  ll
+  585  cd ../p
+  586  cd ../PythonCrashCourse
+  587  ll
+  588  cd code
+  589  ll
+  590  python 14_dict_in_dict.py
+  591  vim +22 14_dict_in_dict.py
+  592  python 14_dict_in_dict.py
+  593  vim +22 14_dict_in_dict.py
+  594  python 14_dict_in_dict.py
+  595  ll
+  596  cd ..
+  597  ll
+  598  cd ..
+  599  ll
+  600  cd -
+  601  git add *
+  602  git commit -m "add *.py files"
+  603  git push origin master
+  604  cd ../../
+  605  \tll
+  606  cd coding
+  607  ll
+  608  vim 
+  609  cd /media
+  610  cd ianpasm/ianpasmer/build/cd ../coding
+  611  cd ianpasm/ianpasmer/coding
+  612  ll
+  613  cd excise
+  614  ll
+  615  mv 20171107-empty.cpp 171107-empty.cpp
+  616  ll
+  617  clang++ -o 171107-empty 171107-empty.cpp
+  618  vim 7 171107-empty.cpp
+  619  vim +7 171107-empty.cpp
+  620  clang++ -o 171107-empty 171107-empty.cpp
+  621  ./171107-empty
+  622  cat 171107
+  623  cat 171107-empty
+  624  cat 171107-empty.cpp
+  625  clear
+  626  ll
+  627  vim 171107-empty.cpp
+  628  clang++ -o 171107-empty 171107-empty.cpp
+  629  ./171107-empty
+  630  cat 171107-empty.cpp
+  631  ll
+  632  g++ -o 171107-staticMember 171107-staticMember.cpp
+  633  ./171107-staticMember
+  634  ll
+  635  musicbox
+  636  cd ../../AlgorithmNotes
+  637  cd code
+  638  ll
+  639  vim pat_b1036.cpp
+  640  cd ..
+  641  ll
+  642  cd ..
+  643  ll
+  644  cd github/AlgorithmNotes
+  645  cd code
+  646  ll
+  647  g++ pat_b1036.cpp
+  648  ./a.out
+  649  cat pat_b1036.cpp
+  650  ./a.out
+  651  g++ pat_b1036.cpp
+  652  cat pat_b1036.cpp
+  653  ./a.out
+  654  g++ pat_b1036.cpp
+  655  ./a.out
+  656  rm a.out
+  657  ll
+  658  g++ pat_b1036.cpp
+  659  ./a.out
+  660  g++ pat_b1036.cpp
+  661  ./a.out
+  662  ll
+  663  mv pat_b1036.cpp  pat_b1036-v1.cpp
+  664  ll
+  665  vim pat_b1036-v2.cpp
+  666  vim
+  667  ll
+  668  g++ pat_b1036-v2.cpp
+  669  ./a.out
+  670  g++ -o v1 pat_b1036-v1.cpp
+  671  ./v11
+  672  ./v1
+  673  ll
+  674  rm v1 a.out
+  675  ll
+  676  vim pat_b1036-v1.cpp
+  677  ll
+  678  g++ pat_b1036-v1.cpp
+  679  ./a.out
+  680  ll
+  681  rm a.out
+  682  g++ -o v1 pat_b1036-v1.cpp
+  683  g++ -o v2 pat_b1036-v2.cpp
+  684  ./v1
+  685  ./v2
+  686  ll
+  687  g++ pat_b1036-v1.cpp
+  688  ./a.out
+  689  ./v2
+  690  ./a.out
+  691  ./v2
+  692  ll
+  693  g++ pat_b1036-v1.cpp
+  694  ./a.out
+  695  ps
+  696  ps -elf | grep google*
+  697  ps -elf | grep chrome*
+  698  ps -elf | grep chorme*
+  699  ps -elf | grep chorme
+  700  kill -9 4339
+  701  ps -elf | grep chorme
+  702  kill -9 4457
+  703  ll
+  704  reboot
+  705  ll
+  706  cd /media/ianpasm
+  707  mkdir
+  708  mkdir mokeee
+  709  cd mokeee
+  710  repo init -u https://github.com/MoKee/android.git -b mko
+  711  sudo apt install repo
+  712  repo init -u https://github.com/MoKee/android.git -b mko
+  713  proxychains
+  714  sudo apt install proxychains
+  715  proxychains repo init -u https://github.com/MoKee/android.git -b mko
+  716  sudo apt update && sudo apt upgrade
+  717  sudo gedit /etc/proxychains.conf
+  718  sudo apt-get update && sudo apt-get install git-core gnupg flex bison gperf libsdl1.2-dev libesd0-dev libwxgtk2.8-dev squashfs-tools build-essential zip curl libncurses5-dev zlib1g-dev pngcrush schedtool libxml2 libxml2-utils xsltproc lzop libc6-dev schedtool g++-multilib lib32z1-dev lib32ncurses5-dev lib32readline-gplv2-dev gcc-multilib
+  719  java -version
+  720  sudo apt-get update && sudo apt-get install git-core gnupg flex bison gperf libsdl1.2-dev libesd0-dev libwxgtk2.8-dev squashfs-tools build-essential zip curl libncurses5-dev zlib1g-dev pngcrush schedtool libxml2 libxml2-utils xsltproc lzop libc6-dev schedtool g++-multilib lib32z1-dev lib32ncurses5-dev lib32readline-gplv2-dev gcc-multilib
+  721  sudo rm /var/lib/apt/lists/lock
+  722  sudo apt-get update && sudo apt-get install git-core gnupg flex bison gperf libsdl1.2-dev libesd0-dev libwxgtk2.8-dev squashfs-tools build-essential zip curl libncurses5-dev zlib1g-dev pngcrush schedtool libxml2 libxml2-utils xsltproc lzop libc6-dev schedtool g++-multilib lib32z1-dev lib32ncurses5-dev lib32readline-gplv2-dev gcc-multilib
+  723  adb devices
+  724  adb reboot fastboot
+  725  ll
+  726  fastboot devices
+  727  bash
+  728  adb reboot bootloader
+  729  ll
+  730  fastboot flash recovery recovery.img
+  731  ll
+  732  sudo fastboot devices
+  733  sudo fastboot flash recovery recovery.img
+  734  adb reboot
+  735  fastboot reboot
+  736  sudo fastboot reboot
+  737  ll
+  738  cd ll
+  739  cd ..
+  740  ll
+  741  adb reboot recovery
+  742  ll
+  743  adb sideload MK71.2-shamu-201711071232-NIGHTLY.zip
+  744  sudo adb sideload MK71.2-shamu-201711071232-NIGHTLY.zip
+  745  sudo su
+  746  adb devices
+  747  adb reboot recovery 
+  748  sudo su
+  749  ll
+  750  sudo adb sideload MK71.2-shamu-201711071232-NIGHTLY.zip
+  751  adb kill-server ； adb start-server
+  752  sudo -s
+  753  ll
+  754  sudo adb sideload MK71.2-shamu-201711071232-NIGHTLY.zip
+  755  ll
+  756  cd Downloads
+  757  ll
+  758  adb install *.apk
+  759  adb install xunlei.apk
+  760  adb install com.mxtech.videoplayer.ad_v1.9.1-1210001021_Android-4.0.apk
+  761  ll
+  762  rm *.download
+  763  rm *download
+  764  ll
+  765  adb install opengapps-app-v16.apk
+  766  adb install com.baidu.netdisk_8.0.0_548.apk com.coolapk.market-7.9.7-1708181.apk com.tencent.mm_6.5.16_1120.apk com.yipiao_4.1.7_349.apk firefly.apk
+  767  adb install com.baidu.netdisk_8.0.0_548.apk
+  768  adb install com.coolapk.market-7.9.7-1708181.apk\n: 1510121437:0;adb install com.coolapk.market-7.9.7-1708181.apk
+  769  adb install com.tencent.mm_6.5.16_1120.apk
+  770  adb install com.yipiao_4.1.7_349.apk
+  771  adb install firefly.apk
+  772  ll
+  773  adb install VLC-Android-2.0.6-ARMv7.apk
+  774  adb devices
+  775  adb install VLC-Android-2.0.6-ARMv7.apk
+  776  adb install shadowsocks-nightly-4.1.7.apk
+  777  ll
+  778  adb install gaoshou.apk
+  779  adb devices
+  780  adb install gaoshou.apk
+  781  ll
+  782  cd /media/ianpasm/ianpasmer/github
+  783  ll
+  784  git clone https://github.com/i0Ek3/iHaskell.git
+  785  ll
+  786  cd iHaskell
+  787  ll
+  788  vim README.md A
+  789  cat README.md
+  790  vim README.md A
+  791  vim README.md
+  792  cd /media/ianpasm/ianpasmer/github
+  793  ll
+  794  cd GFM
+  795  ll
+  796  cat README.md
+  797  cat gfm.md
+  798  apm install ide-haskell
+  799  ghc
+  800  sudo apt install ghc
+  801  cd ..
+  802  ll
+  803  cd iHaskell
+  804  ll
+  805  vim hello.hs
+  806  ghc --make hello
+  807  ghc
+  808  ghc --make hello
+  809  ll
+  810  ./hello
+  811  ll
+  812  pwd
+  813  mkdir hello
+  814  ll
+  815  mkdir hellohaskell
+  816  ll
+  817  mv h* hellohaskell
+  818  ll
+  819  cd hellohaskell
+  820  ll
+  821  cd ..
+  822  vim README.md
+  823  vim 1.hs
+  824  ghc --make 1
+  825  ll
+  826  ./1
+  827  ll
+  828  cd ..
+  829  ll
+  830  cd -
+  831  git add *
+  832  git commit -m "create haskell file and readme"
+  833  git push origin master
+  834  vim README.md
+  835  git add *
+  836  git commit -m "create haskell file and readme"
+  837  git push origin master
+  838  vim README.md
+  839  git add *
+  840  git commit -m "update readme"
+  841  git push origin master
+  842  pwd
+  843  cd 
+  844  cd /media/ianpasm/ianpasmer/github/
+  845  ll
+  846  cd GFM
+  847  ll
+  848  cat gfm.md
+  849  vim README.md
+  850  git add README.md
+  851  git commit -m "update readme"
+  852  git push origin master
+  853  vim README.md
+  854  git add README.md
+  855  git commit -m "update readme"
+  856  git push origin master
+  857  git add README.md
+  858  vim README.md
+  859  git add README.md
+  860  git commit -m "update readme"
+  861  git push origin master
+  862  vim README.md
+  863  git add README.md
+  864  git commit -m "update readme"
+  865  git push origin master
+  866  vim README.md
+  867  git add README.md
+  868  git commit -m "update readme"
+  869  git push origin master
+  870  vim README.md
+  871  git add README.md
+  872  git commit -m "update readme"
+  873  git push origin master
+  874  vim README.md
+  875  git add README.md
+  876  git commit -m "update readme"
+  877  git push origin master
+  878  node -v
+  879  npm -v
+  880  bash
+  881  pwd
+  882  ll
+  883  c
+  884  cd ..
+  885  ll
+  886  cd github
+  887  ll
+  888  IoT_Sec_Learning
+  889  ll
+  890  mkdir paper
+  891  mv *.pdf paper
+  892  ll
+  893  cd paper
+  894  ll
+  895  cd ..
+  896  clear
+  897  ll
+  898  vim README.md
+  899  cd Downloads
+  900  ll
+  901  cd ..
+  902  ll
+  903  cd aaaaappk
+  904  ll
+  905  adb devices
+  906  adb install com.baidu.netdisk_8.0.0_548.apk
+  907  adb install com.mxtech.videoplayer.ad_v1.9.1-1210001021_Android-4.0.apk
+  908  adb install firefly.apk xunlei.apk
+  909  adb install firefly.apk
+  910  adb install xunlei.apk
+  911  ll
+  912  git add paper/
+  913  gir commit -m "add some paper"
+  914  git commit -m "add some paper"
+  915  git push origin master
+  916  ll
+  917  git rm 基于物联网的网络信息安全体系.pdf
+  918  git add *
+  919  git commit -m "update"
+  920  git push origin master
+  921  cd
+  922  cd Downloads
+  923  ll
+  924  cd ..
+  925  cd aaaaappk
+  926  ll
+  927  sudo adb devices
+  928  adb install *
+  929  adb install com.coolapk.market-7.9.7-1708181.apk
+  930  adb install xunlei.apk
+  931  adb install firefly.apk
+  932  ll
+  933  adb install com.mxtech.videoplayer.ad_v1.9.1-1210001021_Android-4.0.apk
+  934  adb shell
+  935  ll
+  936  cd /media/ianpasm/ianpasmer
+  937  ll
+  938  cd coding
+  939  ll
+  940  git clone https://github.com/LuckyGan/FTP.git
+  941  ll
+  942  cd /media
+  943  cd ianpasm/ianpasmer/github
+  944  ll
+  945  cd AlgorithmNotes
+  946  ll
+  947  vim README.md
+  948  cd ../..
+  949  ll
+  950  cd github
+  951  ll
+  952  vim README.md
+  953  cd /media/ianpasm/ianpasmer/github/GFM
+  954  ll
+  955  vim gfm.md
+  956  git add README.md
+  957  git commit -m "add notes"
+  958  git push origin master
+  959  git pull
+  960  git add README.md
+  961  git commit -m "add notes"
+  962  git push origin master
+  963  vim README.md
+  964  git add README.md
+  965  git commit -m "add notes"
+  966  git push origin master
+  967  ll
+  968  cd ..
+  969  ll
+  970  cd iHaskell
+  971  ll
+  972  vim README.md
+  973  git add README.md
+  974  git commit -m "add learning site"
+  975  git push origin master
+  976  adb devices
+  977  adb shell settings put global captive_portal_detection_enabled 0
+  978  adb shell reboot
+  979  adb shell settings put global captive_portal_server connect.rom.miui.com
+  980  adb shell reboot
+  981  cd Downloads
+  982  ll
+  983  cd ../aaaaappk
+  984  ll
+  985  adb install Amap_V8.2.0.2141_android_C021100011028_(Build1711061401).apk
+  986  adb
+  987  adb install Amap_V8.2.0.2141_android_C021100011028_(Build1711061401).apk
+  988  clear
+  989  ll
+  990  adb install com.adobe.reader-17.4.1.178813-178813.apk
+  991  cd aaaaappk
+  992  ll
+  993  adb install com.android.chrome-62.0.3202.84-320208401.apk
+  994  adb install com.chinamworld.main_4.0.6_226.apk
+  995  adb install com.google.android.inputmethod.pinyin-4.5.1.164561151-armeabi-v7a-4511412.apk
+  996  adb install com.jingdong.app.mall-6.5.2-53712-1106.apk
+  997  adb install com.sinovatech.unicom.ui_5.4.3_56.apk
+  998  cd aaaaappk
+  999  adb install com.taobao.taobao-7.1.3-169-1030.apk
+ 1000  adb install f83a4429735ec6dc1261b0d33b773c83-3742-o_1bu0ad85p5elvb41igno971eahq-uid-978246.apk
+ 1001  adb install org.mozilla.firefox_56.0_2015514009.apk
+ 1002  ll
+ 1003  vim install_apk.sh
+ 1004  history > 1.txt
+ 1005  vim 1.txt
+ 1006  ll
+ 1007  rm 1.txt
+ 1008  adb install Amap_V8.2.0.2141_android_C021100011028_\(Build1711061401\).apk
+ 1009  adb install com.android.chrome-62.0.3202.84-320208401.apk
+ 1010  ll
+ 1011  adb install com.jingdong.app.mall-6.5.2-53712-1106.apk
+ 1012  adb install org.mozilla.firefox_56.0_2015514009.apk
+ 1013  ll
+ 1014  cd ..
+ 1015  ll
+ 1016  cd Mindfulness
+ 1017  ll
+ 1018  vim README.md
+ 1019  git add README.md
+ 1020  git status
+ 1021  git commit -m "update something"
+ 1022  git push origin master
+ 1023  vim README.md
+ 1024  git add README.md
+ 1025  git commit -m "update something"
+ 1026  git push origin master
+ 1027  vim README.md
+ 1028  git add README.md
+ 1029  git commit -m "update something"
+ 1030  git push origin master
+ 1031  ghci
+ 1032  彻底
+ 1033  cd
+ 1034  clear
+ 1035  cabal-install
+ 1036  sudo apt install cabal-install
+ 1037  ll
+ 1038  cd Downloads
+ 1039  ll
+ 1040  clear
+ 1041  ll
+ 1042  cd 
+ 1043  cd Downloads
+ 1044  ll
+ 1045  cd 
+ 1046  cd /media/ianpasm/ianpasmer/download/ghc-8.2.1
+ 1047  ll
+ 1048  sudo ./configure
+ 1049  sudo make && sudo make install
+ 1050  cd 
+ 1051  ll
+ 1052  vim README.md
+ 1053  ll
+ 1054  cd ..
+ 1055  ll
+ 1056  cd github
+ 1057  ll
+ 1058  cd GFM
+ 1059  clear
+ 1060  cat gfm.md
+ 1061  git add README.md
+ 1062  git commit -m "update something"
+ 1063  git push origin master
+ 1064  cat gfm.md
+ 1065  vim README.md
+ 1066  git commit -m "update something"
+ 1067  git add README.md
+ 1068  git commit -m "update something"
+ 1069  git push origin master
+ 1070  vim README.md
+ 1071  git add README.md
+ 1072  git commit -m "update something"
+ 1073  git push origin master
+ 1074  cd ..
+ 1075  ll
+ 1076  npm
+ 1077  sudo apt update && sudo apt upgrade
+ 1078  java -version
+ 1079  vim /etc/profile
+ 1080  cd /
+ 1081  cd usr
+ 1082  cd local
+ 1083  ll
+ 1084  whereis java
+ 1085  cd ../share
+ 1086  ll
+ 1087  cd java
+ 1088  ll
+ 1089  cd 
+ 1090  cd /media/ianpasm/ianpasmer/download
+ 1091  ll
+ 1092  sudo mkdir -p /usr/local/java | sudo mv jdk-9.0.1  /usr/local/java
+ 1093  cd /usr/local/java
+ 1094  ll
+ 1095  cd ..
+ 1096  ll
+ 1097  cd java
+ 1098  ll
+ 1099  mkdir jdk-9.0.1
+ 1100  cd bin
+ 1101  pwd
+ 1102  sudo vim /etc/profile
+ 1103  source profile
+ 1104  java -version
+ 1105  sudo update-alternatives --install "/usr/bin/java" "java" "/usr/local/java/bin/java" 1
+ 1106  sudo update-alternatives --install "/usr/bin/java" "java" "/usr/local/java/bin/javac" 1
+ 1107  sudo update-alternatives --install "/usr/bin/java" "java" "/usr/local/java/bin/javaws" 1
+ 1108  sudo update-alternatives --set java /usr/local/java/bin/java
+ 1109  sudo update-alternatives --set java /usr/local/java/bin/javac
+ 1110  sudo update-alternatives --set java /usr/local/java/bin/javaws
+ 1111  java -version
+ 1112  sudo update-alternatives --set java /usr/local/java/bin/javac
+ 1113  java -version
+ 1114  sudo update-alternatives --set java /usr/local/java/bin/java
+ 1115  java -version
+ 1116  npm install -g nba-go
+ 1117  ll
+ 1118  cd bin
+ 1119  ll
+ 1120  ./node
+ 1121  cd ..
+ 1122  ll
+ 1123  cat README.md
+ 1124  ll
+ 1125  cd ..
+ 1126  ll
+ 1127  sudo tar cxv node-v8.9.1-linux-x64.tar.xz
+ 1128  sudo tar zxv node-v8.9.1-linux-x64.tar.xz
+ 1129  sudo tar xv node-v8.9.1-linux-x64.tar.xz
+ 1130  sudo tar fxv node-v8.9.1-linux-x64.tar.xz
+ 1131  ll
+ 1132  cd node-v8.9.1-linux-x64
+ 1133  ll
+ 1134  cd lib
+ 1135  ll
+ 1136  cd ..
+ 1137  ll
+ 1138  cd ..
+ 1139  ll
+ 1140  sudo cp -r node-v8.9.1-linux-x64 /usr/local/
+ 1141  node
+ 1142  node -v
+ 1143  node
+ 1144  sudo apt purge node
+ 1145  sudo apt-get remove --purge node
+ 1146  node -v
+ 1147  npm -v
+ 1148  sudo apt-get remove --purge npm
+ 1149  npm -v
+ 1150  ll
+ 1151  cd node-v8.9.1-linux-x64
+ 1152  ll
+ 1153  cd bin
+ 1154  ll
+ 1155  ln -s /home/k/node /usr/local/bin/node
+ 1156  pwd
+ 1157  ln -s /home/kun/mysofltware/node-v0.10.28-linux-x64/bi
+ 1158  ln -s /media/ianpasm/ianpasmer/download/node-v8.9.1-linux-x64/bin /usr/local/bin/node
+ 1159  sudo ln -s /media/ianpasm/ianpasmer/download/node-v8.9.1-linux-x64/bin /usr/local/bin/node
+ 1160  sudo ln -s /media/ianpasm/ianpasmer/download/node-v8.9.1-linux-x64/bin/npm /usr/local/bin/npm
+ 1161  sudo ln -s /media/ianpasm/ianpasmer/download/node-v8.9.1-linux-x64/bin/node /usr/local/bin/node
+ 1162  sudo rm -rf /usr/local/bin/node /usr/local/bin/npm
+ 1163  sudo ln -s /media/ianpasm/ianpasmer/download/node-v8.9.1-linux-x64/bin/node /usr/local/bin/node
+ 1164  sudo ln -s /media/ianpasm/ianpasmer/download/node-v8.9.1-linux-x64/bin/npm /usr/local/bin/npm
+ 1165  npm
+ 1166  npm -v
+ 1167  node
+ 1168  node -v
+ 1169  npm install -g nba-go
+ 1170  sudo npm install -g nba-go
+ 1171  game
+ 1172  g
+ 1173  paly
+ 1174  palyer
+ 1175  nbm
+ 1176  nbm-go
+ 1177  nba-go
+ 1178  bash
+ 1179  ll
+ 1180  cd 
+ 1181  cd /media/ianpasm/ianpasmer/github
+ 1182  git clone https://github.com/xxhomey19/nba-go.git
+ 1183  ll
+ 1184  cd nba-go
+ 1185  ll
+ 1186  cd bin
+ 1187  ll
+ 1188  cd ..
+ 1189  ll
+ 1190  cd src
+ 1191  ll
+ 1192  cd ..
+ 1193  npm install -g nba-go
+ 1194  sudo npm install -g nba-go
+ 1195  nba-go
+ 1196  nba
+ 1197  ll
+ 1198  cd /media/ianpasm/ianpasmer/download/node-v8.9.1-linux-x64/lib/node_modules/nba-go/lib/
+ 1199  ll
+ 1200  ./cli.js
+ 1201  ghc
+ 1202  ghc -v
+ 1203  ll
+ 1204  ./install-sh
+ 1205  sudo apt update && sudo apt upgrade
+ 1206  sudo redshift
+ 1207  snap install \nintellij-idea-ultimate
+ 1208  sudo snap find
+ 1209  sudo snap find qq
+ 1210  sudo snap find chat
+ 1211  sudo snap list
+ 1212  sudo snap refresh
+ 1213  ll
+ 1214  cd /media/ianpasm/ianpasmer/github/
+ 1215  ll
+ 1216  clear
+ 1217  ll
+ 1218  cd AlgorithmNotes
+ 1219  ll
+ 1220  cd code
+ 1221  ll
+ 1222  rm a.out v*
+ 1223  ll
+ 1224  git status
+ 1225  git add *
+ 1226  git commit -m "update something"
+ 1227  git push origin master
+ 1228  ll
+ 1229  vim code_1928.cpp
+ 1230  ll
+ 1231  vim code_1928.cpp
+ 1232  ll
+ 1233  mv code_1928.cpp codeup_1928.cpp
+ 1234  ll
+ 1235  vim codeup_1928.cpp
+ 1236  g++ codeup_1928.cpp
+ 1237  vim  +47 codeup_1928.cpp
+ 1238  g++ codeup_1928.cpp
+ 1239  vim +58 codeup_1928.cpp
+ 1240  g++ codeup_1928.cpp
+ 1241  vim +58 codeup_1928.cpp
+ 1242  g++ codeup_1928.cpp
+ 1243  vim +58 codeup_1928.cpp
+ 1244  g++ codeup_1928.cpp
+ 1245  ./a.out
+ 1246  vim +58 codeup_1928.cpp
+ 1247  ./a.out
+ 1248  vim +58 codeup_1928.cpp
+ 1249  g++ codeup_1928.cpp
+ 1250  ./a.out
+ 1251  vim +58 codeup_1928.cpp
+ 1252  g++ codeup_1928.cpp
+ 1253  ./a.out
+ 1254  vim +58 codeup_1928.cpp
+ 1255  g++ codeup_1928.cpp
+ 1256  ./a.out
+ 1257  vim +58 codeup_1928.cpp
+ 1258  g++ codeup_1928.cpp
+ 1259  ./a.out
+ 1260  vim +58 codeup_1928.cpp
+ 1261  g++ codeup_1928.cpp
+ 1262  ./a.out
+ 1263  ll
+ 1264  rm a.out
+ 1265  clang++ codeup_1928.cpp
+ 1266  ll
+ 1267  ./a.out
+ 1268  ll
+ 1269  vim codeup_1928.cpp
+ 1270  sed 's/run/leap/g' codeup_1928.cpp
+ 1271  sed 's/run/leap/g' codeup_1928.cpp > codeup_19281.cpp
+ 1272  ll
+ 1273  vim codeup_19281.cpp
+ 1274  rm a.out
+ 1275  ll
+ 1276  mv codeup_1928.cpp
+ 1277  rm codeup_1928.cpp
+ 1278  mv  codeup_19281.cpp codeup_1928.cpp
+ 1279  ll
+ 1280  vim codeup_1928.cpp
+ 1281  ll
+ 1282  git add codeup_1928.cpp
+ 1283  git commit -m "add codeup_1928"
+ 1284  git push origin master
+ 1285  LL
+ 1286  Ll
+ 1287  ll
+ 1288  vim codeup_1928.cpp
+ 1289  g++ codeup_1928.cpp
+ 1290  ./a.out
+ 1291  vim codeup_1928.cpp
+ 1292  g++ codeup_1928.cpp
+ 1293  ./a.out
+ 1294  vim codeup_1928.cpp
+ 1295  g++ codeup_1928.cpp
+ 1296  ./a.out
+ 1297  vim codeup_1928.cpp
+ 1298  ll
+ 1299  vim
+ 1300  la
+ 1301  ls
+ 1302  vim
+ 1303  ll
+ 1304  cd /media/ianpasm/ianpasmer/github/PythonCrashCourse
+ 1305  cd code
+ 1306  ll
+ 1307  clear
+ 1308  ll
+ 1309  l
+ 1310  vim 15_input.py
+ 1311  python 15_input.py
+ 1312  vim 15_input.py
+ 1313  python 15_input.py
+ 1314  vim 15_input.py
+ 1315  python 15_input.py
+ 1316  python3 15_input.py
+ 1317  vim 15_input.py
+ 1318  python3 15_input.py
+ 1319  vim 15_input.py
+ 1320  python3 15_input.py
+ 1321  vim 15_input.py
+ 1322  python3 15_input.py
+ 1323  vim 15_input.py
+ 1324  python3 15_input.py
+ 1325  vim 15_input.py
+ 1326  python3 15_input.py
+ 1327  vim
+ 1328  ll
+ 1329  彻底-0
+ 1330  cd -
+ 1331  l
+ 1332  cd /media
+ 1333  cd ianpasm/ianpasmer/github/PythonCrashCourse
+ 1334  ll
+ 1335  cd coce
+ 1336  cd code
+ 1337  ll
+ 1338  vim 10_free_dict.py
+ 1339  vim
+ 1340  ll
+ 1341  cleaer
+ 1342  c;ear
+ 1343  clear
+ 1344  ll
+ 1345  vim 16_get_intput_with_int.py.
+ 1346  vim 16_get_intput_with_int.py
+ 1347  python 16_get_intput_with_int.py
+ 1348  age
+ 1349  python
+ 1350  python3
+ 1351  python 16_get_intput_with_int.py
+ 1352  vim 16_get_intput_with_int.py
+ 1353  python 16_get_intput_with_int.py
+ 1354  python3 16_get_intput_with_int.py
+ 1355  vim 16_get_intput_with_int.py
+ 1356  python3 16_get_intput_with_int.py
+ 1357  vim 16_get_intput_with_int.py
+ 1358  python3 16_get_intput_with_int.py
+ 1359  vim 16_get_intput_with_int.py
+ 1360  vim 17_int_func_application.py
+ 1361  python  17_int_func_application.py
+ 1362  vim 17_int_func_application.py
+ 1363  python3  17_int_func_application.py
+ 1364  vim 17_int_func_application.py
+ 1365  vim 18_mod.py
+ 1366  python 18_mod.py
+ 1367  vim 18_mod.py
+ 1368  python 18_mod.py
+ 1369  vim 18_mod.py
+ 1370  python 18_mod.py
+ 1371  vim 18_mod.py
+ 1372  python 18_mod.py
+ 1373  vim 18_mod.py
+ 1374  python 18_mod.py
+ 1375  vim 18_mod.py
+ 1376  python 18_mod.py
+ 1377  vim 18_mod.py
+ 1378  python 18_mod.py
+ 1379  vim 18_mod.py
+ 1380  python 18_mod.py
+ 1381  vim 18_mod.py
+ 1382  vim even_or_odd.py
+ 1383  python 18_mod.py
+ 1384  mv even_or_odd.py 19_even_or_odd.py 
+ 1385  ll
+ 1386  python 19_even_or_odd.py
+ 1387  ll
+ 1388  vim 16_get_intput_with_int.py
+ 1389  vim 20_while.py
+ 1390  python 20_while.py
+ 1391  vim 20_while.py
+ 1392  python 20_while.py
+ 1393  mv 20_while.py 20_while-1.py
+ 1394  vim 20_while-2.py
+ 1395  python 20_while-2.py
+ 1396  vim 20_while-2.py
+ 1397  python3 20_while-2.py
+ 1398  vim 20_while-2.py
+ 1399  python 20_while-2.py
+ 1400  vim 16_get_intput_with_int.py
+ 1401  vim 20_while-2.py
+ 1402  ll
+ 1403  vim 20_while-2.py
+ 1404  python 20_while-2.py
+ 1405  vim 20_while-2.py
+ 1406  python 20_while-2.py
+ 1407  ll
+ 1408  git status
+ 1409  git add [15-20]*
+ 1410  git commit -m "add some fils"
+ 1411  git push origin master
+ 1412  cd ../../AlgorithmNotes
+ 1413  ll
+ 1414  cd code
+ 1415  ll
+ 1416  rm a.out
+ 1417  git add codeup_1928.cpp
+ 1418  git commit -m "reconstructor the file"
+ 1419  git push origin master
+ 1420  vim 1.cpp
+ 1421  ll
+ 1422  vim codeup_1928.cpp
+ 1423  ll
+ 1424  cd 
+ 1425  ll
+ 1426  ls
+ 1427  ls -alh
+ 1428  cd .vim/
+ 1429  ll
+ 1430  cd ..
+ 1431  ll
+ 1432  mv vimplus vimplu-noupdates
+ 1433  git clone https://github.com/chxuan/vimplus.git
+ 1434  ll
+ 1435  cd vimplus
+ 1436  ll
+ 1437  ./install.sh
+ 1438  vim
+ 1439  reboot
+ 1440  sudo reboot
+ 1441  vim
+ 1442  ll
+ 1443  vim
+ 1444  ll
+ 1445  cd /media/ianpasm/ianpasmer/github/PythonCrashCourse/code
+ 1446  ll
+ 1447  vim 21_flag.py
+ 1448  python3 21_flag.py
+ 1449  cat 21_flag.py
+ 1450  cd /media/ianpasm/ianpasmer/github/PythonCrashCourse/code
+ 1451  LL
+ 1452  ll
+ 1453  vim
+ 1454  ll
+ 1455  cat 21_flag.py
+ 1456  ll
+ 1457  vim 22_break.py
+ 1458  python3 22_break.py
+ 1459  vim 23_continue.py
+ 1460  python3 23_continue.py
+ 1461  vim 23_continue.py
+ 1462  python3 23_continue.py
+ 1463  vim 23_continue.py
+ 1464  python3 23_continue.py
+ 1465  vim 24_deal_list_with_while.py
+ 1466  vim 25_deal_dict_with_while.py
+ 1467  vim 24_deal_list_with_while.py
+ 1468  python3 24_deal_list_with_while.py
+ 1469  vim 24_deal_list_with_while.py
+ 1470  python3 24_deal_list_with_while.py
+ 1471  vim 24_deal_list_with_while.py
+ 1472  python3 24_deal_list_with_while.py
+ 1473  cat 24_deal_list_with_while.py
+ 1474  mv 24_deal_list_with_while.py 24_deal_list_with_while-1.py
+ 1475  vim 24_deal_list_with_while-2.py
+ 1476  python3 24_deal_list_with_while-2.py
+ 1477  vim 24_deal_list_with_while-2.py
+ 1478  python3 24_deal_list_with_while-2.py
+ 1479  ll
+ 1480  vim 25_deal_list_with_while.py
+ 1481  ll
+ 1482  vim 25_deal_list_with_while.py
+ 1483  vim 25_deal_dict_with_while.py
+ 1484  python3 25_deal_dict_with_while.py
+ 1485  ll
+ 1486  python 25_deal_dict_with_while.py
+ 1487  vim 25_deal_dict_with_while.py
+ 1488  sed 's/input.raw_input/g' > 25_deal_dict_with_while.py
+ 1489  sed 's/input.raw_input/g' 25_deal_dict_with_while.py > 25_deal_dict_with_while.py
+ 1490  sed -s '/input.raw_input/g' 25_deal_dict_with_while.py > 25_deal_dict_with_while.py
+ 1491  ll
+ 1492  cat 25_deal_dict_with_while.py
+ 1493  ll
+ 1494  vim 25_deal_dict_with_while.py
+ 1495  ll
+ 1496  rm 25_deal_dict_with_while.py
+ 1497  ll
+ 1498  git add *
+ 1499  git status
+ 1500  git add [20-21]*
+ 1501  git commit -m "add some files"
+ 1502  git push origin master
+ 1503  ll
+ 1504  cd ../../Mindfulness
+ 1505  ll
+ 1506  vim README.md
+ 1507  git add README.md
+ 1508  git commit -m "update README.md" 
+ 1509  git push origin master
+ 1510  vim README.md
+ 1511  git add README.md
+ 1512  git commit -m "update README.md" 
+ 1513  git push origin master
+ 1514  vim README.md
+ 1515  git add README.md
+ 1516  git push origin master
+ 1517  git commit -m "update README.md" 
+ 1518  git push origin master
+ 1519  cd ../AlgorithmNotes
+ 1520  cd code
+ 1521  ll
+ 1522  vim codeup_1928.cpp
+ 1523  g++ codeup_1928.cpp
+ 1524  ./a.out
+ 1525  vim codeup_1928.cpp
+ 1526  g++ codeup_1928.cpp
+ 1527  ./a.out
+ 1528  vim codeup_1928.cpp
+ 1529  g++ codeup_1928.cpp
+ 1530  ./a.out
+ 1531  vim codeup_1928.cpp
+ 1532  g++ codeup_1928.cpp
+ 1533  ./a.out
+ 1534  vim codeup_1928.cpp
+ 1535  g++ codeup_1928.cpp
+ 1536  ./a.out
+ 1537  vim codeup_1928.cpp
+ 1538  git add codeup_1928.cpp
+ 1539  rmm a
+ 1540  rm a.out
+ 1541  git commit -m "
+ 1542  git commit -m "boom"
+ 1543  git push origin master
+ 1544  ll
+ 1545  mv codeup_1928.cpp codeup_1928-v1.cpp
+ 1546  ll
+ 1547  vim codeup_1928-v2.cpp
+ 1548  ll
+ 1549  cat codeup_1928-v1.cpp
+ 1550  g++ codeup_1928-v2.cpp
+ 1551  ./a.out
+ 1552  ll
+ 1553  rm a.out
+ 1554  g++ codeup_1928-v2.cpp
+ 1555  ./a.out
+ 1556  vim codeup_1928-v2.cpp
+ 1557  sudo apt-get remove --purge weather\now
+ 1558  weather
+ 1559  weathermow
+ 1560  weather\now
+ 1561  weathernow
+ 1562  sudo apt-get remove --purge markdown
+ 1563  sudo apt autoremove
+ 1564  apitude
+ 1565  aptitude
+ 1566  sudo alias fuck='sudo apt update && sudo apt upgrade'
+ 1567  alias fuck='sudo apt update && sudo apt upgrade'
+ 1568  alias fuck='sudo apt update && sudo apt upgrade' > ~/.bashrc
+ 1569  alias fuck='sudo apt update && sudo apt upgrade' > ~/.profile
+ 1570  fuck
+ 1571  alias
+ 1572  ll
+ 1573  rm a.out
+ 1574  ll
+ 1575  git status
+ 1576  git add *
+ 1577  git commit -m "update something"
+ 1578  git push origin master
+ 1579  htop
+ 1580  sudo apt install htop
+ 1581  htop
+ 1582  cd ../../
+ 1583  ll
+ 1584  sudo dpkg -i wewechat-1.1.4-linux-amd64.deb
+ 1585  sudo pip install NetEase-MusicBox
+ 1586  pip install --upgrade pip
+ 1587  sudo pip install NetEase-MusicBox
+ 1588  sudo apt-get install mpg123
+ 1589  sudo apt install python-keybinder libnotify-bin pyqt python-dbus dbus qt
+ 1590  sudo apt install python-keybinder libnotify-bin python-dbus dbus
+ 1591  musicbox
+ 1592  ll
+ 1593  cd iHaskell
+ 1594  ll
+ 1595  Ll
+ 1596  ll
+ 1597  cd DPO_MT7601U_LinuxSTA_3.0.0.4_20130913_360wifi2
+ 1598  ll
+ 1599  sudo make
+ 1600  sudo su
+ 1601  pwd
+ 1602  ghci
+ 1603  MUSICBOX
+ 1604  musicbox
+ 1605  ll
+ 1606  vim README.md
+ 1607  git add README.md
+ 1608  git commit -m "update README.md"
+ 1609  git push origin master
+ 1610  vim README.md
+ 1611  git add README.md
+ 1612  git commit -m "update README.md"
+ 1613  git push origin master
+ 1614  cd ../AlgorithmNotes
+ 1615  cd code
+ 1616  ll
+ 1617  vim codeup_1928-v1.cpp
+ 1618  g++ codeup_1928-v1.cpp
+ 1619  ./a.out
+ 1620  ll
+ 1621  sudo apt update && sudo apt upgrade
+ 1622  vim codeup_1928-v1.cpp
+ 1623  g++ codeup_1928-v1.cpp
+ 1624  ./a.out
+ 1625  LL
+ 1626  ll
+ 1627  rm a.out
+ 1628  ./codeup_1928-v1
+ 1629  rm codeup_1928-v1
+ 1630  ll
+ 1631  cd ../../../coding/excise
+ 1632  ll
+ 1633  vim 
+ 1634  ll
+ 1635  cd /media/ianpasm/ianpasmer/coding/excise
+ 1636  ll
+ 1637  clang++ 171113-singleton.cc
+ 1638  vim 171113-singleton.cc
+ 1639  clang++ -o 171113-singleton 171113-singleton.cc
+ 1640  ./171113-singleton
+ 1641  cat 171113-singleton
+ 1642  clear
+ 1643  cat 171113-singleton.cc
+ 1644  sudo apt update && sudo apt upgrade
+ 1645  sudo apt install libcurl14-gnutls-dev libexpat1-dev gettext libz-dev libssl-dev asciidoc xmlto docbook2x
+ 1646  sudo apt install libcurl4-gnutls-dev libexpat1-dev gettext libz-dev libssl-dev asciidoc xmlto docbook2x
+ 1647  git
+ 1648  git -v
+ 1649  git -version
+ 1650  git --version
+ 1651  git config --lisy
+ 1652  git config --list
+ 1653  sudo add-apt-repository ppa:git-core/ppa
+ 1654  彻底
+ 1655  cd /media/ianpasm/ianpasmer/github
+ 1656  git clone https://github.com/github/gitignore.git
+ 1657  ll
+ 1658  cd gitignore
+ 1659  ll
+ 1660  tree
+ 1661  sudo apt install tree
+ 1662  ll
+ 1663  git status
+ 1664  git status -s
+ 1665  oll
+ 1666  ll
+ 1667  sudo apt update && sudo apt install git
+ 1668  git --version
+ 1669  sudo apt install tree
+ 1670  ll
+ 1671  tree
+ 1672  git
+ 1673  cd ../../coding
+ 1674  ll
+ 1675  CppCode
+ 1676  mkdir CppCode
+ 1677  cd CppCode
+ 1678  ll
+ 1679  vim Sales_item.h
+ 1680  ll
+ 1681  cd  CppCode
+ 1682  ll
+ 1683  vim book.cpp
+ 1684  ll
+ 1685  clang++ -o book *
+ 1686  clang++ -o book book.cpp Sales_item.h
+ 1687  g++ *
+ 1688  clang++ *
+ 1689  vim Sales_item.h
+ 1690  clang++ *
+ 1691  g++ *
+ 1692  vim +27 book.cpp
+ 1693  vim Sales_item.h
+ 1694  g++ * --std=c++11
+ 1695  g++ * -std=c++11
+ 1696  ll
+ 1697  rm *.gch
+ 1698  ll
+ 1699  mkdir ch01
+ 1700  mv * ch01
+ 1701  ll
+ 1702  vim mkdir.sh
+ 1703  ll
+ 1704  chmod a+x mkdir.sh
+ 1705  ./mkdir.sh
+ 1706  ll
+ 1707  vim mkdir.sh
+ 1708  ll
+ 1709  rm -rf ch19
+ 1710  ./mkdir.sh
+ 1711  vim mkdir.sh
+ 1712  ./mkdir.sh
+ 1713  vim mkdir.sh
+ 1714  ./mkdir.sh
+ 1715  vim mkdir.sh
+ 1716  ./mkdir.sh
+ 1717  ll
+ 1718  rm mkdir.sh
+ 1719  vim mkdir.sh
+ 1720  chmod a+x mkdir.sh
+ 1721  ./mkdir.sh
+ 1722  ll
+ 1723  rm -rf ch2..19
+ 1724  vim mkdir.sh
+ 1725  ./mkdir.sh
+ 1726  ll
+ 1727  rm -rf ch2
+ 1728  vim mkdir.sh
+ 1729  sudo apt update && sudo apt upgrade
+ 1730  firefox
+ 1731  ll
+ 1732  cd /media/ianpasm/ianpasmer/github/Mindfulness
+ 1733  ll
+ 1734  vim README.md
+ 1735  firefox
+ 1736  git add README.md
+ 1737  git commit -m "keep clam in mess"
+ 1738  git push origin master
+ 1739  ll
+ 1740  cd ../AlgorithmNotes
+ 1741  ll
+ 1742  vim README.md
+ 1743  git add README.md
+ 1744  git commit -m "update README.md"
+ 1745  git push origin master
+ 1746  ll
+ 1747  cd ../PythonCrashCourse
+ 1748  LL
+ 1749  ll
+ 1750  code
+ 1751  cd code
+ 1752  ll
+ 1753  vim 25_simple_func.py
+ 1754  python3 25_simple_func.py
+ 1755  ll
+ 1756  python3 25_simple_func.py
+ 1757  vim 26_func_with_value.py
+ 1758  cat 25_simple_func.py
+ 1759  vim 26_func_with_value.py
+ 1760  python3 26_func_with_value.py
+ 1761  vim 27_parameter_argument.py
+ 1762  python3 27_parameter_argument.py
+ 1763  vim 27_parameter_argument.py
+ 1764  python3 27_parameter_argument.py
+ 1765  vim 27_parameter_argument.py
+ 1766  python3 27_parameter_argument.py
+ 1767  vim 27_parameter_argument.py
+ 1768  python3 27_parameter_argument.py
+ 1769  vim 27_parameter_argument.py
+ 1770  python3 27_parameter_argument.py
+ 1771  vim 27_parameter_argument.py
+ 1772  python3 27_parameter_argument.py
+ 1773  vim 27_parameter_argument.py
+ 1774  python3 27_parameter_argument.py
+ 1775  vim 27_parameter_argument.py
+ 1776  python3 27_parameter_argument.py
+ 1777  vim 27_parameter_argument.py
+ 1778  git status -s
+ 1779  git status
+ 1780  vim 27_parameter_argument.py
+ 1781  python3 27_parameter_argument.py
+ 1782  vim 27_parameter_argument.py
+ 1783  python3 27_parameter_argument.py
+ 1784  git status -s
+ 1785  git status
+ 1786  git diff
+ 1787  ll
+ 1788  vim 27_parameter_argument.py
+ 1789  python3 27_parameter_argument.py
+ 1790  vim 27_parameter_argument.py
+ 1791  python3 27_parameter_argument.py
+ 1792  ll
+ 1793  git add *
+ 1794  git status
+ 1795  git commit -m "add function"
+ 1796  git push origin master
+ 1797  ll
+ 1798  cd ..
+ 1799  ll
+ 1800  vim README.md
+ 1801  git add README.md
+ 1802  git commit -m "update README.md"
+ 1803  git push origin master
+ 1804  reboot
+ 1805  ll
+ 1806  cd /media/ianpasm/ianpasmer/github/Mindfulness
+ 1807  vim README.md
+ 1808  git add README.md
+ 1809  git commit -m "update READEME.md"
+ 1810  git push origin master
+ 1811  ll
+ 1812  cd ..
+ 1813  ll
+ 1814  mkdir mine
+ 1815  mkdir third
+ 1816  ll
+ 1817  cd mine
+ 1818  ll
+ 1819  cd iHaskell
+ 1820  ll
+ 1821  cd ..
+ 1822  ll
+ 1823  cd  AlgorithmNotes
+ 1824  ll
+ 1825  vim README.md
+ 1826  git add README.md
+ 1827  git commit -m "update README.md"
+ 1828  git push origin master
+ 1829  ll
+ 1830  cd ..
+ 1831  ll
+ 1832  cd Mindfulness
+ 1833  vim README.md
+ 1834  git add README.md
+ 1835  git commit -m "update README.md"
+ 1836  git push origin master
+ 1837  vim README.md
+ 1838  git add README.md
+ 1839  git commit -m "update README.md"
+ 1840  git push origin master
+ 1841  ll
+ 1842  vim README.md
+ 1843  git add README.md
+ 1844  git commit -m "update README.md"
+ 1845  git push origin master
+ 1846  ll
+ 1847  cd ../../../
+ 1848  ll
+ 1849  cd coding
+ 1850  ll
+ 1851  cd ..
+ 1852  ll
+ 1853  rm MK71.2-shamu-201711071232-NIGHTLY.zip
+ 1854  ll
+ 1855  cd pdf
+ 1856  ll
+ 1857  cd ../paper
+ 1858  ll
+ 1859  cd ..
+ 1860  ll
+ 1861  cd doc
+ 1862  ll
+ 1863  cd ..
+ 1864  ll
+ 1865  mv BigData_Sec.txt doc
+ 1866  ll
+ 1867  mkdir code
+ 1868  ll
+ 1869  cd code
+ 1870  ll
+ 1871  mkdir JavaScript
+ 1872  ll
+ 1873  cd 
+ 1874  sudo apt update && sudo apt upgrade
+ 1875  cd ..
+ 1876  ll
+ 1877  cd ASH
+ 1878  ll
+ 1879  mkdir sh-files
+ 1880  mv *.sh sh-files
+ 1881  ll
+ 1882  git status
+ 1883  git add *
+ 1884  ll
+ 1885  vim README.md
+ 1886  git add README.md
+ 1887  git status
+ 1888  git add *
+ 1889  ll
+ 1890  git status
+ 1891  git commot -m "make a plan"
+ 1892  git commit -m "make a plan"
+ 1893  git push origin master
+ 1894  git rm *.sh
+ 1895  vim README.md
+ 1896  git add README.md
+ 1897  git rm *.sh
+ 1898  git rm *sh
+ 1899  git pull
+ 1900  ll
+ 1901  vim README.md
+ 1902  git rm baseInstall.sh isEmail.sh isPhoneNumber.sh menu_with_dialog.sh
+ 1903  git add *
+ 1904  git commit -m "make a plan"
+ 1905  git push origin master
+ 1906  sudo apt-get install cmake build-essential opencc mercurial ibus
+ 1907  hg clone http://code.google.com/p/libgooglepinyin/
+ 1908  ll
+ 1909  cd /media/ianpasm/ianpasmer/github/mine/PythonCrashCourse/code
+ 1910  ll
+ 1911  kdlsjaa
+ 1912  ll
+ 1913  传递..
+ 1914  cd ..
+ 1915  vim README.md
+ 1916  cd ../../
+ 1917  ll
+ 1918  cd mine
+ 1919  ll
+ 1920  cd GFM
+ 1921  ll
+ 1922  cat gfm.md
+ 1923  git add README.md
+ 1924  git commit -m "update README.md"
+ 1925  git push origin master
+ 1926  ll
+ 1927  cd code
+ 1928  ll
+ 1929  彻底
+ 1930  cd
+ 1931  sudo apt remove --purge xware-desktop
+ 1932  ll
+ 1933  rm Un*
+ 1934  ll
+ 1935  cd Downloads
+ 1936  ll
+ 1937  rm Fix_WiFi.zip 
+ 1938  ll
+ 1939  rm -rf XX*
+ 1940  sudo rm -rf XX*
+ 1941  ll
+ 1942  sudo dpkg -i xware-desktop_0.13.20141115_amd64.deb
+ 1943  vim 28_return_value.py
+ 1944  python3 28_return_value.py
+ 1945  vim 28_return_value.py
+ 1946  python3 28_return_value.py
+ 1947  vim 28_return_value.py
+ 1948  python3 28_return_value.py
+ 1949  vim 28_return_value.py
+ 1950  python3 28_return_value.py
+ 1951  vim 28_return_value.py
+ 1952  python3 28_return_value.py
+ 1953  vim 28_return_value.py
+ 1954  python3 28_return_value.py
+ 1955  vim 28_return_value.py
+ 1956  python3 28_return_value.py
+ 1957  ll
+ 1958  vim 29_return_dict.py
+ 1959  python3 29_return_dict.py
+ 1960  vim 29_return_dict.py
+ 1961  python3 29_return_dict.py
+ 1962  vim 29_return_dict.py
+ 1963  python3 29_return_dict.py
+ 1964  ll
+ 1965  vim 30_func_with_while.py
+ 1966  ll
+ 1967  cat 28_return_value.py
+ 1968  python3 30_func_with_while.py
+ 1969  vim 30_func_with_while.py
+ 1970  python3 30_func_with_while.py
+ 1971  vim
+ 1972  ll
+ 1973  vim ../README.md
+ 1974  vim gfm.md
+ 1975  vim ../README.md
+ 1976  git status -s
+ 1977  add 28_return_value.py 29_return_dict.py 30_func_with_while.py
+ 1978  git add 28_return_value.py 29_return_dict.py 30_func_with_while.py
+ 1979  git commit -m "add somthing about func"
+ 1980  cd ..
+ 1981  ll
+ 1982  add README.md
+ 1983  git add README.md
+ 1984  git commit -m "update README.md"
+ 1985  git push origin master
+ 1986  add README.md
+ 1987  vim ../README.md
+ 1988  vim README.md
+ 1989  git add README.md
+ 1990  git commit -m "update README.md"
+ 1991  git push origin master
+ 1992  vim README.md
+ 1993  git add README.md
+ 1994  git commit -m "update README.md"
+ 1995  git push origin master
+ 1996  ll
+ 1997  gi origin master
+ 1998  sudo apt remove --purge xware-desktop 
+ 1999  vf 
+ 2000  cd 
+ 2001  cd /media/ianpasm/ianpasmer/download
+ 2002  ll
+ 2003  cd xunlei-linux
+ 2004  ll
+ 2005  cd //
+ 2006  mv * ~
+ 2007  cd -
+ 2008  ll
+ 2009  mv *.mp4 ~
+ 2010  ll
+ 2011  cd ,,
+ 2012  cd ..
+ 2013  ll
+ 2014  sudo rm -rf xunlei-linux
+ 2015  ll
+ 2016  cd
+ 2017  cd Downloads
+ 2018  ll
+ 2019  sudo dpkg -i xware-desktop_0.13.20141115_amd64.deb
+ 2020  ll
+ 2021  cd ..
+ 2022  ll
+ 2023  git clone https://github.com/i0Ek3/LinuxKernel.git
+ 2024  ll
+ 2025  cd LinuxKernel
+ 2026  ll
+ 2027  mkdir sample
+ 2028  vim README.md
+ 2029  cd sample
+ 2030  ll
+ 2031  mkdir driver
+ 2032  ll
+ 2033  cd driver
+ 2034  ll
+ 2035  vim helloModule.c
+ 2036  gcc helloModule.c
+ 2037  man init.h
+ 2038  man linux/init.h
+ 2039  vim helloModule.c
+ 2040  cd 
+ 2041  cleatr
+ 2042  clear
+ 2043  ls -l /usr/src
+ 2044  uname -r
+ 2045  cd /usr/src/linux-headers-4.10.0-38-generic
+ 2046  ll
+ 2047  cd in
+ 2048  cd include
+ 2049  ll
+ 2050  cd config
+ 2051  ll
+ 2052  cat init
+ 2053  find . -name init.h
+ 2054  ll
+ 2055  mv helloModule.c helloKernel.c
+ 2056  ll
+ 2057  cd .
+ 2058  cd ..
+ 2059  ll
+ 2060  cd ..
+ 2061  ll
+ 2062  git add *
+ 2063  git commit -m "update something"
+ 2064  cd -
+ 2065  ll
+ 2066  cd driver
+ 2067  ll
+ 2068  vim helloKernel.c
+ 2069  cd -
+ 2070  ll
+ 2071  cd ..
+ 2072  ll
+ 2073  git add sample/
+ 2074  git commit -m "problem in helloKernel.c"
+ 2075  git push origin master
+ 2076  ll
+ 2077  cd ..
+ 2078  ll
+ 2079  cd LinuxKernel
+ 2080  git pull
+ 2081  ll
+ 2082  cd sample/driver
+ 2083  ll
+ 2084  vim helloKernel.c
+ 2085  cd ..
+ 2086  ll
+ 2087  cd linux
+ 2088  ll
+ 2089  find . -name init.h
+ 2090  sudo cp init.h /media/ianpasm/ianpasmer/github/mine/LinuxKernel/sample/driver/
+ 2091  ll
+ 2092  vim helloKernel.c
+ 2093  mv init.h linux/init.h
+ 2094  vim helloKernel.c
+ 2095  gcc *
+ 2096  vim init.h
+ 2097  ll
+ 2098  find . -name compiler.h
+ 2099  sudo cp compiler.h /media/ianpasm/ianpasmer/github/mine/LinuxKernel/sample/driver/
+ 2100  ll
+ 2101  rm init.h.gch
+ 2102  ll
+ 2103  sudo chmod -R ianpasm:ianpasm *.h
+ 2104  sudo chgrp -R ianpasm:ianpasm *.h
+ 2105  sudo chown -R ianpasm:ianpasm *.h
+ 2106  ll
+ 2107  gcc *
+ 2108  mkdir linux
+ 2109  ll
+ 2110  mv *.h linux
+ 2111  ll
+ 2112  rm *.gch
+ 2113  ll
+ 2114  vim helloKernel.c
+ 2115  ll
+ 2116  gcc *
+ 2117  cd linux
+ 2118  ll
+ 2119  cd ..
+ 2120  ll
+ 2121  vim helloKernel.c
+ 2122  ll
+ 2123  vim helloKernel.c
+ 2124  cd ../../../
+ 2125  ll
+ 2126  cd LinuxKernel
+ 2127  ll
+ 2128  git add *
+ 2129  git commit -m "boom >_<"
+ 2130  git push origin master
+ 2131  cd 
+ 2132  ll
+ 2133  cd /var/spool/crom
+ 2134  cd /var/spool/cron
+ 2135  ll
+ 2136  cd 
+ 2137  clear
+ 2138  ll
+ 2139  cd /media/ianpasm/ianpasmer/github/mine/PythonCrashCourse/
+ 2140  ll
+ 2141  vim README.md
+ 2142  git add README.md
+ 2143  git commit -m "update READEME.md"
+ 2144  git push origin master
+ 2145  cd ../
+ 2146  ll
+ 2147  cd ASH
+ 2148  ll
+ 2149  vim README.md
+ 2150  vim ../git.sh
+ 2151  cd ..
+ 2152  ll
+ 2153  chmod a+x git.sh
+ 2154  cd ASH
+ 2155  ll
+ 2156  ../git.sh 
+ 2157  vim ../git.sh
+ 2158  ../git.sh
+ 2159  ../git.sh README.md update READEME.md
+ 2160  vim  ../git.sh
+ 2161  ../git.sh
+ 2162  ll
+ 2163  cd 
+ 2164  cd /media/ianpasm/ianpasmer/github/mine/Mindfulness
+ 2165  vim README.md
+ 2166  ../git.sh README.md "update README.md"
+ 2167  vim ../git.sh
+ 2168  ll
+ 2169  vim README.md
+ 2170  ../git.sh README.md "update \README.md"
+ 2171  vim ../git.sh
+ 2172  ll
+ 2173  cd ..
+ 2174  ll
+ 2175  cd AlgorithmNotes
+ 2176  l
+ 2177  ll
+ 2178  vim README.md
+ 2179  ../git.sh README.md update README.md
+ 2180  ll
+ 2181  cd .
+ 2182  cd ..
+ 2183  ll
+ 2184  cd PythonCrashCourse
+ 2185  ll
+ 2186  cd code
+ 2187  ll
+ 2188  vim 30_transfer_list.py
+ 2189  mv 30_transfer_list.py 31_transfer_list.py
+ 2190  python3 31_transfer_list.py
+ 2191  cat 31
+ 2192  cat 31_transfer_list.py
+ 2193  vim 31_transfer_list.py
+ 2194  python3 31_transfer_list.py
+ 2195  vim +19 31_transfer_list.py
+ 2196  python3 31_transfer_list.py
+ 2197  vim +19 31_transfer_list.py
+ 2198  python3 31_transfer_list.py
+ 2199  vim +19 31_transfer_list.py
+ 2200  python3 31_transfer_list.py
+ 2201  vim +19 31_transfer_list.py
+ 2202  python3 31_transfer_list.py
+ 2203  cat 31_transfer_list.py
+ 2204  vim +19 31_transfer_list.py
+ 2205  python3 31_transfer_list.py
+ 2206  cat 31_transfer_list.py
+ 2207  vim 31_transfer_list.py
+ 2208  vim 32_transfer_arguments_arbitrarily.py
+ 2209  python3 32_transfer_arguments_arbitrarily.py
+ 2210  cat 32_transfer_arguments_arbitrarily.py
+ 2211  vim 32_transfer_arguments_arbitrarily.py
+ 2212  python3 32_transfer_arguments_arbitrarily.py
+ 2213  vim 32_transfer_arguments_arbitrarily.py
+ 2214  python3 32_transfer_arguments_arbitrarily.py
+ 2215  vim 32_transfer_arguments_arbitrarily.py
+ 2216  python3 32_transfer_arguments_arbitrarily.py
+ 2217  vim 32_transfer_arguments_arbitrarily.py
+ 2218  python3 32_transfer_arguments_arbitrarily.py
+ 2219  cat 32_transfer_arguments_arbitrarily.py
+ 2220  vim 32_transfer_arguments_arbitrarily.py
+ 2221  python3 32_transfer_arguments_arbitrarily.py
+ 2222  ll
+ 2223  vim 32_transfer_arguments_arbitrarily.py
+ 2224  python3 32_transfer_arguments_arbitrarily.py
+ 2225  传递
+ 2226  cd
+ 2227  ps
+ 2228  ps -elf | grep network
+ 2229  ll
+ 2230  screenfetch
+ 2231  neofetch
+ 2232  sudo apt install neofetch
+ 2233  ps -elf | grep 
+ 2234  ps 
+ 2235  LL
+ 2236  ll
+ 2237  git status
+ 2238  git add *
+ 2239  git commit -m "add some files"
+ 2240  git push origin master
+ 2241  reboot
+ 2242  ll
+ 2243  cd 
+ 2244  cd /media/ianpasm/ianpasmer/github/mine/PythonCrashCourse/c
+ 2245  cd /media/ianpasm/ianpasmer/github/mine/PythonCrashCourse/code
+ 2246  ll
+ 2247  git add *
+ 2248  git status
+ 2249  git push origin master
+ 2250  ll
+ 2251  vim 33_storage_function_in_module.py
+ 2252  mv 33_storage_function_in_module.py 33_module_make_pizza.py
+ 2253  vim 33_module_make_pizza.py
+ 2254  mkdir 33_storage_function_in_module
+ 2255  ll
+ 2256  mv 33_module_make_pizza.py 33_storage_function_in_module
+ 2257  ll
+ 2258  cd 33_storage_function_in_module
+ 2259  ll
+ 2260  mv 33_module_make_pizza.py make_pizza.py
+ 2261  ll
+ 2262  vim making_pizzsa.py
+ 2263  python3 making_pizzsa.py
+ 2264  ll
+ 2265  vim making_pizzsa.py
+ 2266  python3 making_pizzsa.py
+ 2267  ll
+ 2268  mv making_pizzsa.py making_pizzas.py
+ 2269  ll
+ 2270  vim mak
+ 2271  vim make_pizza.py
+ 2272  vim making_pizzas.py
+ 2273  python3 making_pizzas.py
+ 2274  ll
+ 2275  vim module.txt
+ 2276  mv module.txt module.py
+ 2277  ll
+ 2278  vim module.py
+ 2279  cat make_pizza.py
+ 2280  vim module.py
+ 2281  python3 module.py
+ 2282  ll
+ 2283  vim as.py
+ 2284  python3 as.py
+ 2285  vim as.py
+ 2286  python3 as.py 
+ 2287  vim import_all.py
+ 2288  python3  import_all.py
+ 2289  vim import_all.py
+ 2290  python3  import_all.py
+ 2291  ll
+ 2292  cd ..
+ 2293  git status
+ 2294  git add 33_storage_function_in_module/
+ 2295  git commit -m "add 33_storage_function_in_module/"
+ 2296  git push origin master
+ 2297  cd ..
+ 2298  _ll
+ 2299  clear
+ 2300  ll
+ 2301  cd ..
+ 2302  ll
+ 2303  cd LinuxKernel
+ 2304  ll
+ 2305  cd sample
+ 2306  ll
+ 2307  cd ..
+ 2308  vim README.md
+ 2309  git add README.md
+ 2310  git commit -m "update README.md"
+ 2311  git push origin master
+ 2312  ll
+ 2313  cd sample
+ 2314  ll
+ 2315  cd driver
+ 2316  ll
+ 2317  cd ..
+ 2318  ll
+ 2319  cd ..
+ 2320  vim README.md
+ 2321  git add README.md
+ 2322  git commit -m "update README.md"
+ 2323  git push origin master
+ 2324  ll
+ 2325  mkdir linuxkernel
+ 2326  cd linuxkernel
+ 2327  ls ~/Downloads/
+ 2328  cp ~/Downloads/linux-4.14.tar.xz .
+ 2329  ll
+ 2330  cd
+ 2331  ll
+ 2332  cd Downloads
+ 2333  ll
+ 2334  cd ..
+ 2335  ll
+ 2336  git add linuxkernel/
+ 2337  git commit -m "upload linuxkernel-4.14"
+ 2338  git push origin master
+ 2339  ll
+ 2340  cp linux-4.14.tar.xz /media/ianpasm/ianpasmer/coding
+ 2341  ll
+ 2342  cd /media/ianpasm/ianpasmer/coding
+ 2343  ll
+ 2344  tar cxf linux-4.14.tar.xz
+ 2345  tar zxf linux-4.14.tar.xz
+ 2346  tar xvf linux-4.14.tar.xz
+ 2347  ll
+ 2348  mkdir linux-kernel
+ 2349  mv linux* linux-kernel
+ 2350  ll
+ 2351  cd linux-kernel
+ 2352  ll
+ 2353  cd linux-4.14
+ 2354  cd ..
+ 2355  ll
+ 2356  vim
+ 2357  cd linux-4.14
+ 2358  ll
+ 2359  vim 
+ 2360  ll
+ 2361  vim README.md
+ 2362  git add README.md
+ 2363  git commit -m "update README.md"
+ 2364  git push origin master
+ 2365  ll
+ 2366  vim README.md
+ 2367  sudo apt install qeum
+ 2368  sudo apt-get install qeum
+ 2369  cd 
+ 2370  ll
+ 2371  vim qeum.sh
+ 2372  chmod a+x qeum.sh
+ 2373  ./qeum.sh
+ 2374  ll
+ 2375  cd sample/driver/
+ 2376  ll
+ 2377  vim helloKernel.c
+ 2378  gcc helloKernel.c
+ 2379  ll
+ 2380  cd linux
+ 2381  ll
+ 2382  cd ..
+ 2383  ll
+ 2384  vim helloKernel.c
+ 2385  ll
+ 2386  cd linuxkernel
+ 2387  ll
+ 2388  tar xvf linux-4.14.tar.xz
+ 2389  ll
+ 2390  rm linux-4.14
+ 2391  rm linux-4.14.tar.xz
+ 2392  git rm linux-4.14.tar.xz
+ 2393  ll
+ 2394  cd ..
+ 2395  ll
+ 2396  cd -
+ 2397  ll
+ 2398  git add linux-4.14/lib/
+ 2399  ll
+ 2400  git add linux-4.14/
+ 2401  ll
+ 2402  git add helloKernel.c
+ 2403  ll
+ 2404  vim README.md
+ 2405  ll
+ 2406  git add commit -m "add linux-4.14"
+ 2407  git commit -m "add linux-4.14"
+ 2408  ll
+ 2409  cd ..
+ 2410  ll
+ 2411  git add README.md
+ 2412  git commit -m "update README.md"
+ 2413  ll
+ 2414  cd sample/driver/
+ 2415  ll
+ 2416  git add helloKernel.c
+ 2417  git commit -m "still boom after changed,take it easy"
+ 2418  ll
+ 2419  cd ../../
+ 2420  ll
+ 2421  git push origin master
+ 2422  ll
+ 2423  vim README.md
+ 2424  ll
+ 2425  git add README.md
+ 2426  git commit -m "add something"
+ 2427  git push origin master
+ 2428  vim README.md
+ 2429  git add README.md
+ 2430  git commit -m "update README.md"
+ 2431  git push origin master
+ 2432  ll
+ 2433  cd /media/ianpasm/ianpasmer/github/mine/AlgorithmNotes/code
+ 2434  ll
+ 2435  vim codeup_1928-v1.cpp
+ 2436  g++ codeup_1928-v1.cpp
+ 2437  vim codeup_1928-v1.cpp
+ 2438  g++ codeup_1928-v1.cpp
+ 2439  vim codeup_1928-v1.cpp
+ 2440  g++ codeup_1928-v1.cpp
+ 2441  ./a.out
+ 2442  ll
+ 2443  rm a.out *.o
+ 2444  ll
+ 2445  git add codeup_1928-v1.cpp
+ 2446  git commit -m "modified something then still boom"
+ 2447  git push origin master
+ 2448  ll
+ 2449  vim pat_b1022-v1.cpp
+ 2450  ll
+ 2451  g++ pat_b1022-v1.cpp
+ 2452  ./a.out
+ 2453  vim pat_b1022-v1.cpp
+ 2454  ll
+ 2455  clang++ pat_b1022-v1.cpp
+ 2456  ./a.out
+ 2457  vim pat_b1022-v2.cpp
+ 2458  vim pat_b1022-v1.cpp
+ 2459  g++ pat_b1022-v1.cpp
+ 2460  ./a.out
+ 2461  ll
+ 2462  rm a.out
+ 2463  vim pat_b1022-v2.cpp
+ 2464  g++ pat_b1022-v2.cpp
+ 2465  ./a.out
+ 2466  vim pat_b1022-v1.cpp
+ 2467  g++ pat_b1022-v1.cpp
+ 2468  ./a.out
+ 2469  vim pat_b1022-v1.cpp
+ 2470  g++ pat_b1022-v1.cpp
+ 2471  ./a.out
+ 2472  g++ pat_b1022-v1.cpp
+ 2473  ll
+ 2474  rm a.out
+ 2475  vim pat_b1022-v1.cpp
+ 2476  g++ pat_b1022-v1.cpp
+ 2477  ./a.out
+ 2478  ll
+ 2479  rm a.out
+ 2480  ll
+ 2481  vim pat_b1022-v1.cpp
+ 2482  git status -s
+ 2483  git add *
+ 2484  git status
+ 2485  ll
+ 2486  git commit -m "add pat_b1022"
+ 2487  git push origin master
+ 2488  vim codeup_1928-v1.cpp
+ 2489  g++ codeup_1928-v1.cpp
+ 2490  ./a.out
+ 2491  ll
+ 2492  rm a.out
+ 2493  ll
+ 2494  cd 
+ 2495  clear
+ 2496  redis 127.0.0.1:6379> CONFIG GET CONFIG_SETTING_NAME
+ 2497  musicbox
+ 2498  redis 127.0.0.1:6379> CONFIG GET CONFIG_SETTING_NAME
+ 2499  musicbox
+ 2500  ll
+ 2501  cd ..
+ 2502  ll
+ 2503  cd LinuxKernel
+ 2504  ll
+ 2505  vim README.md
+ 2506  ll
+ 2507  cd ../
+ 2508  ll
+ 2509  cd GFM
+ 2510  LL
+ 2511  ll
+ 2512  cat gfm.md
+ 2513  ll
+ 2514  git add pic/
+ 2515  git commit -m "add pic/"
+ 2516  git push origin master
+ 2517  ll
+ 2518  vim README.md
+ 2519  git add README.md
+ 2520  git commit -m "update README.md"
+ 2521  git push origin master
+ 2522  ll
+ 2523  cd pic
+ 2524  ll
+ 2525  cd ..
+ 2526  cp ~/Pictures/VFS\ 在用户和文件系统之间提供了一个交换层.jpg pic/
+ 2527  ll
+ 2528  cd pic
+ 2529  ll
+ 2530  cd ..
+ 2531  ll
+ 2532  vim README.md
+ 2533  git add README.md
+ 2534  git commit -m "update README.md"
+ 2535  git add pic/
+ 2536  git commit -m "add pic"
+ 2537  git push origin master
+ 2538  ll
+ 2539  tar zxvf glibc-2.26.tar.gz
+ 2540  ll
+ 2541  cd glibc-2.26
+ 2542  ll
+ 2543  sudo ./configure
+ 2544  mkdir build-glibc
+ 2545  cd build-glibc
+ 2546  ../configure
+ 2547  sudo apt install gawk
+ 2548  ../configure
+ 2549  ../configure --disable-sanity-checks
+ 2550  ll
+ 2551  sudo make
+ 2552  ll
+ 2553  vim README.md
+ 2554  git add README.md
+ 2555  git commit -m "add en AwesomeSite"
+ 2556  git push origin master
+ 2557  cd /media/ianpasm/ianpasmer/coding/excise
+ 2558  ll
+ 2559  vim main.c
+ 2560  gcc -S -o main.s main.c -m32
+ 2561  ll
+ 2562  cat main.s
+ 2563  ll
+ 2564  mkdir linux-kernel
+ 2565  mv main* linux-kernel
+ 2566  ll
+ 2567  cd linux-kernel
+ 2568  ll
+ 2569  cd 
+ 2570  ll
+ 2571  ./qeum.sh
+ 2572  sudo make install
+ 2573  cd
+ 2574  ll
+ 2575  cd Downloads
+ 2576  LL
+ 2577  ll
+ 2578  sudo tar xvf linux-4.14.tar.xz
+ 2579  cd linux-4.14
+ 2580  ll
+ 2581  find . -name bzImage
+ 2582  cd ..
+ 2583  ll
+ 2584  vim js.html
+ 2585  cd /media/ianpasm/ianpasmer/code/JavaScript
+ 2586  ll
+ 2587  vim js.html
+ 2588  ./js.html
+ 2589  ll
+ 2590  chmod a+x js.html
+ 2591  ./js.html
+ 2592  vim js.html
+ 2593  ll
+ 2594  git clone git://git.qemu.org/qemu.git
+ 2595  ll
+ 2596  cd /media/ianpasm/ianpasmer/coding/excise/
+ 2597  ll
+ 2598  mv linux-kernel ../../code
+ 2599  ll
+ 2600  glibc
+ 2601  sudo ./qeum.sh
+ 2602  mkdir -p ../../code/cpp
+ 2603  ll
+ 2604  cd ../../code/cpp
+ 2605  ll
+ 2606  vim string.cpp
+ 2607  g++ string.cpp
+ 2608  g++ string.cpp -std=c++11
+ 2609  vim string.cpp
+ 2610  g++ string.cpp
+ 2611  ./a.out
+ 2612  vim string.cpp
+ 2613  g++ string.cpp
+ 2614  ./a.out
+ 2615  vim string.cpp 
+ 2616  g++ string.cpp
+ 2617  ./a.out
+ 2618  vim string.cpp 
+ 2619  g++ string.cpp
+ 2620  ./a.out
+ 2621  f
+ 2622  ./a.out
+ 2623  vim string.cpp
+ 2624  g++ string.cpp
+ 2625  ./a.out
+ 2626  vim string.cpp
+ 2627  ./a.out
+ 2628  g++ string.cpp
+ 2629  vim string.cpp
+ 2630  g++ string.cpp
+ 2631  vim string.cpp
+ 2632  g++ string.cpp
+ 2633  ./a.out
+ 2634  vim string.cpp
+ 2635  g++ string.cpp
+ 2636  ./a.out
+ 2637  vim string.cpp
+ 2638  ll
+ 2639  cd qemu
+ 2640  git submodule init
+ 2641  git submodule update --recursive
+ 2642  cd ../IoT_Sec_Learning
+ 2643  ll
+ 2644  vim README.md
+ 2645  git add README.md
+ 2646  git commit -m "update README.md"
+ 2647  git push origin master
+ 2648  cd ../Mindfulness
+ 2649  ll
+ 2650  vim README.md
+ 2651  git add README.md
+ 2652  git commit -m "update README.md"
+ 2653  git push origin master
+ 2654  sudo apt update && sudo apt upgrade
+ 2655  ll
+ 2656  cd /media/ianpasm/ianpasmer/github/mine/PythonCrashCourse/code/
+ 2657  ll
+ 2658  cat 9_dict.py
+ 2659  ll
+ 2660  clear
+ 2661  shuffter
+ 2662  screenhot
+ 2663  screen
+ 2664  sudo apt-get update 
+ 2665  sudo apt-get install redis-server
+ 2666  redis-servewr
+ 2667  redis-server
+ 2668  ps -elf | grep 6379 
+ 2669  kill 16376
+ 2670  sudo kill -9 16376
+ 2671  redis-server
+ 2672  sudo kill -9 17629
+ 2673  redis-server
+ 2674  ps -elf | grep 6379 
+ 2675  sudo kill -9 17726 
+ 2676  redis-server
+ 2677  redis-cli
+ 2678  redis-server
+ 2679  redis-cli
+ 2680  ps -elf | grep redis
+ 2681  kill -9 17880
+ 2682  sudo kill -9 17880
+ 2683  ps -elf | grep redis
+ 2684  sudo kill -9 19809
+ 2685  ps -elf | grep redis
+ 2686  sudo kill -9 19870
+ 2687  ps -elf | grep redis
+ 2688  redis
+ 2689  redis-server
+ 2690  auso redis-server
+ 2691  sudo redis-server
+ 2692  redis -v
+ 2693  redis-server -v
+ 2694  redis-cli
+ 2695  redis-server
+ 2696  ps -ef | grep -i redis  
+ 2697  kill -9 20502
+ 2698  sudo kill -9 20502
+ 2699  ps -ef | grep -i redis  
+ 2700  sudo kill -9 20883
+ 2701  ps -ef | grep -i redis  
+ 2702  sudo kill -9 20931
+ 2703  ps -ef | grep -i redis  
+ 2704  sudo kill -9 20978
+ 2705  ps -ef | grep -i redis  
+ 2706  sudo rm -rf /usr/bin/redis-server
+ 2707  ps -ef | grep -i redis  
+ 2708  git clone --recursive https://github.com/uglide/RedisDesktopManager.git -b 0.9 rdm && cd ./rdm
+ 2709  ./redis-server
+ 2710  cd /usr/bin
+ 2711  ./redis-server
+ 2712  cd ../local/bin
+ 2713  ./redis-server
+ 2714  sudo apt remove --purge redis*
+ 2715  sudo apt remove --purge redis
+ 2716  rdis
+ 2717  sudo apt install redis
+ 2718  sudo apt install redis-server
+ 2719  sudo apt install redis-cli
+ 2720  https://github.com/antirez/redis.git
+ 2721  git clone https://github.com/antirez/redis.git
+ 2722  ll
+ 2723  cd src
+ 2724  ll
+ 2725  ./configure
+ 2726  sudo ./configure
+ 2727  cd redis/
+ 2728  ll
+ 2729  cd src
+ 2730  ll
+ 2731  make
+ 2732  make test
+ 2733  cd src
+ 2734  ll
+ 2735  ./redis-server
+ 2736  ./redis-cli
+ 2737  clear
+ 2738  pwd
+ 2739  ./redis-cli
+ 2740  ll
+ 2741  make install
+ 2742  sudo make install
+ 2743  redis
+ 2744  ./redis-server
+ 2745  ./redis-cli
+ 2746  ll
+ 2747  cd 
+ 2748  ll
+ 2749  cd /media/ianpasm/ianpasmer/github/mine/PythonCrashCourse/code/
+ 2750  ll
+ 2751  cd ../../AlgorithmNotes/code
+ 2752  ll
+ 2753  clear
+ 2754  vim codeup_5901.cpp
+ 2755  g++ codeup_5901.cpp
+ 2756  clang++ codeup_5901.cpp
+ 2757  vim codeup_5901.cpp
+ 2758  clang++ codeup_5901.cpp
+ 2759  vim codeup_5901.cpp
+ 2760  man length
+ 2761  man length()\n;l;sdf
+ 2762  man 2 length
+ 2763  clang++ codeup_5901.cpp
+ 2764  g++ codeup_5901.cpp
+ 2765  man 2 length
+ 2766  vim codeup_5901.cpp
+ 2767  g++ codeup_5901.cpp
+ 2768  vim codeup_5901.cpp
+ 2769  g++ codeup_5901.cpp
+ 2770  ./a.out
+ 2771  vim codeup_5901.cpp
+ 2772  g++ codeup_5901.cpp
+ 2773  ./a.out
+ 2774  g++ codeup_5901.cpp
+ 2775  vim codeup_5901.cpp
+ 2776  g++ codeup_5901.cpp
+ 2777  ./a.out
+ 2778  vim codeup_5901.cpp
+ 2779  g++ codeup_5901.cpp
+ 2780  ./a.out
+ 2781  vim codeup_5901.cpp
+ 2782  g++ codeup_5901.cpp
+ 2783  ./a.out
+ 2784  vim codeup_5901.cpp
+ 2785  g++ codeup_5901.cpp
+ 2786  ./a.out
+ 2787  vim codeup_5901.cpp
+ 2788  g++ codeup_5901.cpp
+ 2789  ./a.out
+ 2790  vim codeup_5901.cpp
+ 2791  g++ codeup_5901.cpp
+ 2792  ./a.out
+ 2793  vim codeup_5901.cpp
+ 2794  g++ codeup_5901.cpp
+ 2795  ./a.out
+ 2796  vim codeup_5901.cpp
+ 2797  g++ codeup_5901.cpp
+ 2798  ./a.out q
+ 2799  ./a.out 
+ 2800  vim codeup_5901.cpp
+ 2801  g++ codeup_5901.cpp
+ 2802  ./a.out
+ 2803  vim codeup_5901.cpp
+ 2804  g++ codeup_5901.cpp
+ 2805  ./a.out
+ 2806  vim codeup_5901.cpp
+ 2807  g++ codeup_5901.cpp
+ 2808  ./a.out
+ 2809  vim codeup_5901.cpp
+ 2810  g++ codeup_5901.cpp
+ 2811  ./a.out
+ 2812  vim codeup_5901.cpp
+ 2813  g++ codeup_5901.cpp
+ 2814  ./a.out
+ 2815  vim codeup_5901.cpp
+ 2816  g++ codeup_5901.cpp
+ 2817  ./a.out
+ 2818  vim codeup_5901.cpp
+ 2819  g++ codeup_5901.cpp
+ 2820  ./a.out
+ 2821  vim codeup_5901.cpp
+ 2822  g++ codeup_5901.cpp
+ 2823  ./a.out
+ 2824  vim codeup_5901.cpp
+ 2825  ./a.out
+ 2826  g++ codeup_5901.cpp
+ 2827  ./a.out
+ 2828  vim codeup_5901.cpp
+ 2829  g++ codeup_5901.cpp
+ 2830  ./a.out
+ 2831  vim codeup_5901.cpp
+ 2832  ./a.out
+ 2833  rm a.out
+ 2834  g++ codeup_5901.cpp
+ 2835  vim codeup_5901.cpp
+ 2836  g++ codeup_5901.cpp
+ 2837  vim codeup_5901.cpp
+ 2838  cd ../../../../../ianpasmer/code/cpp
+ 2839  ll
+ 2840  cat string.cpp
+ 2841  g++ codeup_5901.cpp -std=c++11
+ 2842  ll
+ 2843  rm a.out
+ 2844  vim codeup_5901.cpp
+ 2845  man gets\n;l;sdf
+ 2846  man gets()\n;l;sdf
+ 2847  clean
+ 2848  clear
+ 2849  cd
+ 2850  man scanf
+ 2851  g++ codeup_5901.cpp -std=c++11
+ 2852  man scanf
+ 2853  man gets
+ 2854  vim codeup_5901.cpp
+ 2855  man gets
+ 2856  vim codeup_5901.cpp
+ 2857  man fgets
+ 2858  man gets
+ 2859  vim codeup_5901.cpp
+ 2860  g++ codeup_5901.cpp
+ 2861  vim codeup_5901.cpp
+ 2862  g++ codeup_5901.cpp
+ 2863  ll
+ 2864  ./a.out
+ 2865  vim codeup_5901.cpp
+ 2866  g++ codeup_5901.cpp
+ 2867  ./a.out
+ 2868  vim codeup_5901.cpp
+ 2869  git add codeup_5901.cpp
+ 2870  git commit -m "bug is waiting..."
+ 2871  git push origin master
+ 2872  vim codeup_5901.cpp
+ 2873  ll
+ 2874  rm a.out
+ 2875  g++ codeup_5901.cpp
+ 2876  ./a.out
+ 2877  git add codeup_5901.cpp
+ 2878  git commit -m "add codeup_5901 and bug is waiting..."
+ 2879  git push origin master
+ 2880  cd ..
+ 2881  ll
+ 2882  cd ..
+ 2883  ll
+ 2884  cd PythonCrashCourse
+ 2885  cd code
+ 2886  ll
+ 2887  vim 34_dog_class.py
+ 2888  vim ../README.md
+ 2889  git add r
+ 2890  git add README.md
+ 2891  git add ../README.md
+ 2892  git commit -m "update README.md"
+ 2893  ll
+ 2894  vim 34_dog_class.py
+ 2895  python 34_dog_class.py
+ 2896  vim +15 34_dog_class.py
+ 2897  python 34_dog_class.py
+ 2898  vim +15 34_dog_class.py
+ 2899  python 34_dog_class.py
+ 2900  vim +15 34_dog_class.py
+ 2901  python 34_dog_class.py
+ 2902  python3 34_dog_class.py
+ 2903  vim +15 34_dog_class.py
+ 2904  python3 34_dog_class.py
+ 2905  vim +15 34_dog_class.py
+ 2906  python3 34_dog_class.py
+ 2907  vim +15 34_dog_class.py
+ 2908  python3 34_dog_class.py
+ 2909  vim +15 34_dog_class.py
+ 2910  python3 34_dog_class.py
+ 2911  vim +15 34_dog_class.py
+ 2912  python3 34_dog_class.py
+ 2913  vim +15 34_dog_class.py
+ 2914  python3 34_dog_class.py
+ 2915  vim +15 34_dog_class.py
+ 2916  python3 34_dog_class.py
+ 2917  vim +15 34_dog_class.py
+ 2918  git add 34_dog_class.py
+ 2919  git commit -m "where is the errors?"
+ 2920  vim 34_dog_class.py
+ 2921  git commit -m "where is the errors?"
+ 2922  python3 34_dog_class.py
+ 2923  vim 34_dog_class.py
+ 2924  python3 34_dog_class.py
+ 2925  vim 34_dog_class.py
+ 2926  python3 34_dog_class.py
+ 2927  sudo apt update && sudo apt upgrade
+ 2928  ll
+ 2929  clear
+ 2930  ll
+ 2931  vim 35_car_class.py
+ 2932  python3 35_car_class.py
+ 2933  vim 35_car_class.py
+ 2934  python3 35_car_class.py
+ 2935  vim 35_car_class.py
+ 2936  python3 35_car_class.py
+ 2937  vim 35_car_class.py
+ 2938  python3 35_car_class.py
+ 2939  vim 35_car_class.py
+ 2940  python3 35_car_class.py
+ 2941  vim 35_car_class.py
+ 2942  python3 35_car_class.py
+ 2943  vim 35_car_class.py
+ 2944  git add 35_car_class.py
+ 2945  git commit -m "add files 35"
+ 2946  git status
+ 2947  git add *
+ 2948  git commit -m "add files"
+ 2949  git status
+ 2950  git push origin master
+ 2951  ll
+ 2952  clear
+ 2953  sudo apt update && sudo apt upgrade
+ 2954  cd ../../Mindfulness
+ 2955  ll
+ 2956  vim README.md
+ 2957  git add README.md
+ 2958  git commit -m "update README.md"
+ 2959  git push origin master
+ 2960  vim README.md
+ 2961  git add README.md
+ 2962  git commit -m "update README.md"
+ 2963  git push origin master
+ 2964  vim README.md
+ 2965  git add README.md
+ 2966  git commit -m "update README.md"
+ 2967  git push origin master
+ 2968  cat string.cpp
+ 2969  vim string.cpp
+ 2970  g++ string.cpp
+ 2971  g++ string.cpp -std=c++11
+ 2972  ./a.out
+ 2973  vim string.cpp
+ 2974  ./a.out
+ 2975  g++ string.cpp -std=c++11
+ 2976  ./a.out
+ 2977  man decltype
+ 2978  vim string.cpp
+ 2979  g++ string.cpp -std=c++11
+ 2980  ./a.out
+ 2981  vim string.cpp
+ 2982  g++ string.cpp -std=c++11
+ 2983  ./a.out
+ 2984  ll
+ 2985  cd ..
+ 2986  ll
+ 2987  cd ..
+ 2988  ll
+ 2989  cd third
+ 2990  ll
+ 2991  git clone https://github.com/pezy/CppPrimer.git
+ 2992  git clone V
+ 2993  git clone https://github.com/pezy/LeetCode.git
+ 2994  ll
+ 2995  cd leetcode
+ 2996  ll
+ 2997  vim README.md
+ 2998  ll
+ 2999  cd ..
+ 3000  ll
+ 3001  cd Leetcode
+ 3002  ll
+ 3003  cd Leetcode
+ 3004  cd LeetCode
+ 3005  ll
+ 3006  vim README.md
+ 3007  ll
+ 3008  pwd
+ 3009  cd ..
+ 3010  ll
+ 3011  mv LeetCode LeetCode-pezy
+ 3012  ll
+ 3013  mv leetcode leetcode-chenhao
+ 3014  ll
+ 3015  exit
+ 3016  ll
+ 3017  cd /media/ianpasm/ianpasmer/github/mine
+ 3018  cd PythonCrashCourse
+ 3019  ll
+ 3020  vim 
+ 3021  vim README.md
+ 3022  git add README.md
+ 3023  git commit -m "update README.md"
+ 3024  ll
+ 3025  cd code
+ 3026  ll
+ 3027  vim 36_inherit.py
+ 3028  python 36_inherit.py
+ 3029  vim 36_inherit.py
+ 3030  python 36_inherit.py
+ 3031  vim 36_inherit.py
+ 3032  python3 36_inherit.py
+ 3033  python 36_inherit.py
+ 3034  vim 36_inherit.py
+ 3035  python3 36_inherit.py
+ 3036  vim 36_inherit.py
+ 3037  python3 36_inherit.py
+ 3038  vim 36_inherit.py
+ 3039  python3 36_inherit.py
+ 3040  vim 36_inherit.py
+ 3041  python3 36_inherit.py
+ 3042  vim 36_inherit.py
+ 3043  python3 36_inherit.py
+ 3044  vim +57 36_inherit.py
+ 3045  python3 36_inherit.py
+ 3046  vim +57 36_inherit.py
+ 3047  python3 36_inherit.py
+ 3048  vim +57 36_inherit.py
+ 3049  python3 36_inherit.py
+ 3050  vim +66 36_inherit.py
+ 3051  python3 36_inherit.py
+ 3052  ll
+ 3053  vim 36_inherit.py
+ 3054  git add 36_inherit.py
+ 3055  git commit -m "add a file"
+ 3056  git status
+ 3057  git push origin master
+ 3058  sudo apt install rar unrar
+ 3059  ll
+ 3060  cd ..
+ 3061  cd ../../../coding/code/
+ 3062  ll
+ 3063  cd cpp
+ 3064  ll
+ 3065  cd ..
+ 3066  ll
+ 3067  cd ..
+ 3068  ll
+ 3069  cd excise
+ 3070  lll
+ 3071  ll
+ 3072  vim 
+ 3073  ll
+ 3074  clang++ 171120-vector.cpp -std=c++11
+ 3075  clang++ 171120-vector.cpp
+ 3076  clang++ 171120-vector.cpp -std=c++11
+ 3077  ./a.out
+ 3078  ｃｄ
+ 3079  cd
+ 3080  mv .vimrc vimrc
+ 3081  sudo gedit vimrc
+ 3082  mv vimrc .vimrc
+ 3083  sudo apt update && sudo apt upgrade
+ 3084  vim
+ 3085  vim 1.cc
+ 3086  vim 1.py
+ 3087  vim .vimrc
+ 3088  cp .vimrc vimrc
+ 3089  gedit vimrc
+ 3090  vim vimrc
+ 3091  mv .vimrc vimnopy
+ 3092  cp vimrc vimwithpy
+ 3093  mv vimrc .vimrc
+ 3094  sudo apt update
+ 3095  sudo apt upgrade
+ 3096  vim 1.sh
+ 3097  vim 1.py
+ 3098  vim .vimrc
+ 3099  vim 1.py
+ 3100  python 1.py
+ 3101  python3 1.py
+ 3102  vim 1.sh
+ 3103  vim .vimrc
+ 3104  vim 1.sh
+ 3105  vim .vimrc
+ 3106  vim 1.cc
+ 3107  vim 1.py
+ 3108  vim 13.py
+ 3109  vim 13.sh
+ 3110  vim .vimrc
+ 3111  vim 22.sh
+ 3112  vim 22.py
+ 3113  vim 1.v
+ 3114  vim 1.c
+ 3115  vim .vimrc
+ 3116  vim 4.cc
+ 3117  vim 4.py
+ 3118  vim 4.sh
+ 3119  vim 4.s
+ 3120  vim 4.c
+ 3121  vim 4.cpp
+ 3122  vim .vimrc
+ 3123  vim 8.py
+ 3124  vim .vimrc
+ 3125  vim 8.py
+ 3126  vim 4.c
+ 3127  vim 4.sh
+ 3128  vim 4.cpp
+ 3129  vim 4.h
+ 3130  ll
+ 3131  clear
+ 3132  ll
+ 3133  rm 1.py 8.py
+ 3134  ll
+ 3135  rm vimnopy vimwithpy
+ 3136  cp .vimrc vimrc-diao
+ 3137  cat vimrc-diao
+ 3138  ll
+ 3139  cd １０
+ 3140  ll
+ 3141  ｌｌ
+ 3142  ll
+ 3143  cd
+ 3144  cd /media/ianpasm/ianpasmer/github
+ 3145  ll
+ 3146  cd mine
+ 3147  ll
+ 3148  cd A
+ 3149  cd AlgorithmNotes
+ 3150  ll
+ 3151  cd code
+ 3152  ll
+ 3153  cd ..
+ 3154  ll
+ 3155  vim README.md
+ 3156  ll
+ 3157  man mkiso
+ 3158  man mkfsiso
+ 3159  mkisofs -R -J -T -v -no-emul-boot -boot-load-size 4 -boot-info-table -V RHEL4ASDVD -b isolinux/isolinux.bin -c isolinux/boot.cat -o ~/win10full.iso *
+ 3160  ll
+ 3161  mkiso * ~/win10.iso
+ 3162  mkisofs * ~/win10.iso
+ 3163  mkisofs -o ~/win10.iso *
+ 3164  ll
+ 3165  cd
+ 3166  ll
+ 3167  cd 
+ 3168  cd -
+ 3169  cd code
+ 3170  ll
+ 3171  sudo apt update && sudo apt upgrade
+ 3172  ll
+ 3173  cd ../../../third
+ 3174  git clone https://github.com/vinta/awesome-python.git
+ 3175  git clone https://github.com/avelino/awesome-go.git
+ 3176  git clone https://github.com/prakhar1989/awesome-courses.git
+ 3177  git clone https://github.com/alebcay/awesome-shell.git
+ 3178  git clone https://github.com/LewisVo/Awesome-Linux-Software.git
+ 3179  git clone https://github.com/jobbole/awesome-cpp-cn.git
+ 3180  ll
+ 3181  cd  awesome-cpp-cn
+ 3182  ll
+ 3183  vim README.md
+ 3184  cd
+ 3185  ll
+ 3186  cd -
+ 3187  cd ../../../coding/code/cpp
+ 3188  vim string.cpp
+ 3189  ll
+ 3190  vim string.cpp
+ 3191  ll
+ 3192  cd 
+ 3193  ll
+ 3194  cd .vim
+ 3195  ll
+ 3196  cd bundle
+ 3197  \tll
+ 3198  cd vim-devicons
+ 3199  ll
+ 3200  cd autoload
+ 3201  ll
+ 3202  cd airline
+ 3203  ll
+ 3204  cd extensions
+ 3205  ll
+ 3206  cd tabline
+ 3207  ll
+ 3208  cd formatters
+ 3209  ll
+ 3210  vim webdevicons.vim
+ 3211  ;ll
+ 3212  ll
+ 3213  cd 
+ 3214  redshift
+ 3215  ll
+ 3216  cd ../../../third
+ 3217  git clone https://github.com/Valloric/dotfiles.git valloric-dotfiles
+ 3218  ll
+ 3219  cd  valloric-dotfiles
+ 3220  ll
+ 3221  cd
+ 3222  ll
+ 3223  cd build
+ 3224  ll
+ 3225  git clone git clone https://github.com/ryanoasis/vim-devicons ~/.vim/bundle/vim-devicons
+ 3226  git clone https://github.com/ryanoasis/vim-devicons ~/.vim/bundle/vim-devicons
+ 3227  cd ~/.vim/bundle
+ 3228  ll
+ 3229  sudo rm -rf vim-devicons
+ 3230  cd 
+ 3231  git clone https://github.com/ryanoasis/vim-devicons ~/.vim/bundle/vim-devicons
+ 3232  vim 
+ 3233  vim .vimrc
+ 3234  so ~/.vimrc
+ 3235  vim .vimrc
+ 3236  vim
+ 3237  vim .vimrc
+ 3238  vim
+ 3239  cd build
+ 3240  git clone https://github.com/ryanoasis/vim-devicons.git
+ 3241  ll
+ 3242  cd ..
+ 3243  ll
+ 3244  git clone https://github.com/ryanoasis/nerd-fonts.git
+ 3245  ll
+ 3246  git clone https://github.com/DemonCloud/dotfile.git
+ 3247  ll
+ 3248  cd dotfile
+ 3249  ll
+ 3250  cd ..
+ 3251  mv dotfile font-dotz
+ 3252  ll
+ 3253  cd font-dotz
+ 3254  ll
+ 3255  ./install.sh\n
+ 3256  ll
+ 3257  vim 
+ 3258  ｌｌ
+ 3259  ll
+ 3260  cd ../
+ 3261  ll
+ 3262  cd ../mine
+ 3263  ll
+ 3264  git clone https://github.com/i0Ek3/ianpasm-s-.vimrc.git
+ 3265  cd ianpasm-s-.vimrc
+ 3266  ll
+ 3267  cp ~/vimrc-diao .
+ 3268  mv vimrc-diao ian-vimrc
+ 3269  vim ian-vimrc
+ 3270  ll
+ 3271  git add ian-vimrc
+ 3272  git commit -m "add vimrc"
+ 3273  git push origin master
+ 3274  git pull
+ 3275  ll
+ 3276  vim README.md
+ 3277  vim
+ 3278  ll
+ 3279  vim fonts
+ 3280  cd 
+ 3281  cd -
+ 3282  ll
+ 3283  vim README.md
+ 3284  cd ..
+ 3285  ll
+ 3286  cd valloric-dotfiles
+ 3287  ll
+ 3288  ./setup_dotfiles.sh
+ 3289  cd vim
+ 3290  ll
+ 3291  cp vim ~/.vimrc
+ 3292  cp vimrc.vim ~/.vimrc
+ 3293  vim
+ 3294  ced 
+ 3295  cd 
+ 3296  kll
+ 3297  ll
+ 3298  cd vimplu
+ 3299  cd vimplus
+ 3300  ll
+ 3301  ./install.sh
+ 3302  vim
+ 3303  ll
+ 3304  cd 
+ 3305  ll
+ 3306  cp vimrc-diao .vimrc
+ 3307  vim
+ 3308  vim1.py
+ 3309  vim 1.py
+ 3310  vim 1.sh
+ 3311  vim 1.cc
+ 3312  vim
+ 3313  vim 1.c
+ 3314  vim
+ 3315  ll
+ 3316  vim 
+ 3317  vim .vimrc
+ 3318  vim vimrc-diao
+ 3319  cp vimrc-diao .vimrc
+ 3320  vim
+ 3321  vim vimrc-diao
+ 3322  cp vimrc-diao .vimrc
+ 3323  vim
+ 3324  vim 1.cc
+ 3325  ll
+ 3326  cd /media/ianpasm/ianpasmer/github/mine/ianpasm-s-.vimrc
+ 3327  ll
+ 3328  cp ~/vimrc-diao .
+ 3329  ll
+ 3330  rm ian-vimrc
+ 3331  git rm ian-vimrc
+ 3332  mv vimrc-diao ian-vimrc
+ 3333  ll
+ 3334  vim ian-vimrc
+ 3335  cd
+ 3336  ll
+ 3337  vim vimrc-diao
+ 3338  vim
+ 3339  cp vimrc-diao .vimrc
+ 3340  vim
+ 3341  vim 
+ 3342  vim vimrc-diao
+ 3343  cp vimrc-diao .vimrc
+ 3344  vim
+ 3345  ll
+ 3346  vim
+ 3347  vim .vimrc
+ 3348  vim
+ 3349  vim .vimrc
+ 3350  vim 
+ 3351  ll
+ 3352  vim ian-vimrc
+ 3353  cp ian-vimrc ~/vimrc-diao
+ 3354  git add ian-vimrc
+ 3355  git commit -m "set <Leader> with SPACE and add something"
+ 3356  git push origin master
+ 3357  ll
+ 3358  git pull
+ 3359  ll
+ 3360  cd ..
+ 3361  ll
+ 3362  cd ianpasm-s-.vimrc
+ 3363  ll
+ 3364  cd ..
+ 3365  ll
+ 3366  git clone https://github.com/i0Ek3/ianpasm-vimrc.git
+ 3367  cp ianpasm-s-.vimrc/ian-vimrc .
+ 3368  ll
+ 3369  sudo rm -rf ianpasm-s-.vimrc
+ 3370  ll
+ 3371  git clone https://github.com/i0Ek3/ianpasm-vimrc.git
+ 3372  cd ..
+ 3373  ll
+ 3374  cd m
+ 3375  cd mine
+ 3376  ll
+ 3377  cd AlgorithmNotes
+ 3378  ll
+ 3379  vim README.md
+ 3380  git add README.md
+ 3381  git commit -m "update README.md"
+ 3382  git push origin master
+ 3383  git config --global user.name "i0Ek3"
+ 3384  git config --global user.email "kno30826@gmail.com"
+ 3385  git push origin master
+ 3386  ls -al ~/.ssh
+ 3387  cd
+ 3388  ssh-keygen -t rsa -b 4096 -C "kno30826@gmail.com"
+ 3389  ls -al ~/.ssh
+ 3390  eval "$(ssh-agent -s)"
+ 3391  ssh-add ~/.ssh/id_rsa
+ 3392  sudo apt-get install xclip
+ 3393  xclip -sel clip < ~/.ssh/id_rsa.pub
+ 3394  CD .SSH
+ 3395  cd .ssh
+ 3396  ll
+ 3397  car id_rsa
+ 3398  cat id_rsa
+ 3399  cat id_rsa.pub
+ 3400  ll
+ 3401  cd ..
+ 3402  ll
+ 3403  git push origin master
+ 3404  git status
+ 3405  git config --global user.name "i0Ek3"
+ 3406  git config --global user.email "kno30826@gmail.com"
+ 3407  git push origin master
+ 3408  cd ll
+ 3409  ll
+ 3410  git pull
+ 3411  ll
+ 3412  cd AlgorithmNotes
+ 3413  ll
+ 3414  git pull
+ 3415  git add README.md
+ 3416  git commit -m "update README.md"
+ 3417  git push origin master
+ 3418  cd ..
+ 3419  ll
+ 3420  cd ASH
+ 3421  git pull
+ 3422  cd ../GFM
+ 3423  git pull
+ 3424  cd ../iHaskell
+ 3425  ll
+ 3426  vim README.md
+ 3427  git add README.md
+ 3428  git commit -m "update README.md"
+ 3429  cd ../PythonCrashCourse
+ 3430  ll
+ 3431  vim README.md
+ 3432  git add README.md
+ 3433  git commit -m "update README.md"
+ 3434  git push origin master
+ 3435  cd ../Mindfulness
+ 3436  ll
+ 3437  vim r
+ 3438  vim README.md
+ 3439  git add README.md
+ 3440  git commit -m "update README.md"
+ 3441  git push origin master
+ 3442  cd ../../third
+ 3443  ll
+ 3444  sudo rm -rf font-dotz
+ 3445  ll
+ 3446  cd ../mine
+ 3447  ll
+ 3448  vim generateSSH.sh
+ 3449  ll
+ 3450  cd .ssh
+ 3451  ll
+ 3452  chmod a+x generateSSH.sh
+ 3453  ll
+ 3454  mkdir common-sh
+ 3455  mv *.sh common-sh
+ 3456  ll
+ 3457  cd common-sh
+ 3458  ll
+ 3459  vim generateSSH.sh
+ 3460  ll
+ 3461  cd ..
+ 3462  ll
+ 3463  cd Mindfulness
+ 3464  ll
+ 3465  vim README.md
+ 3466  sudo apt-get install python3-pyqt5.qtmultimedia libqt5multimedia5-plugins
+ 3467  sudo apt autoremove
+ 3468  pip3 install -r requirements.txt
+ 3469  pip install -r requirements.txt
+ 3470  ll
+ 3471  cd ..
+ 3472  ll
+ 3473  cd ../third
+ 3474  ll
+ 3475  git clone https://github.com/FindHao/ciba.git
+ 3476  cd 
+ 3477  sudo apt install pip3
+ 3478  ll
+ 3479  cd ciba
+ 3480  ll
+ 3481  pip3 install -r requirements.txt
+ 3482  pip install -r requirements.txt
+ 3483  sudo apt install pyqt5
+ 3484  cat requirements.txt
+ 3485  ll
+ 3486  python3 entry.py
+ 3487  ll
+ 3488  sudo dpkg -i youdao-dict_1.1.0-0-deepin_amd64.deb
+ 3489  sudo apt -f install 
+ 3490  sudo dpkg -i youdao-dict_1.1.0-0-ubuntu_amd64.deb
+ 3491  sudo apt -f install 
+ 3492  sudo dpkg -i youdao-dict_1.1.0-0-ubuntu_amd64.deb
+ 3493  sudo apt -f install 
+ 3494  sudo dpkg -i youdao-dict_1.1.0-0-ubuntu_amd64.deb
+ 3495  sudo apt -f install 
+ 3496  sudo apt update && sudo apt upgrade
+ 3497  ll
+ 3498  cd ..
+ 3499  ll
+ 3500  rm -rf ciba
+ 3501  ll
+ 3502  sudo dpkg -i youdao-dict_1.1.0-0-ubuntu_amd64.deb
+ 3503  sudo apt -f install 
+ 3504  sudo apt-get install python3 python3-pip bs4
+ 3505  sudo apt-get install python3 python3-pip
+ 3506  sudo pip3 install bs4
+ 3507  sudo pip install --upgrade pip
+ 3508  sudo pip3 install bs4
+ 3509  bs4
+ 3510  wd
+ 3511  wd -h
+ 3512  wd word
+ 3513  ll
+ 3514  git clone https://github.com/ChestnutHeng/Wudao-dict.git
+ 3515  ll
+ 3516  rm -rf Wudao-dict
+ 3517  git clone --depth=1 https://github.com/chestnutheng/wudao-dict
+ 3518  musicbox
+ 3519  ll
+ 3520  git clone https://github.com/darknessomi/musicbox.git && cd musicbox
+ 3521  python3 setup.py install
+ 3522  sudo python3 setup.py install
+ 3523  ll
+ 3524  vim setup.py
+ 3525  ll
+ 3526  vim requirements.txt
+ 3527  cd build
+ 3528  ll
+ 3529  cd 
+ 3530  cd  ~/.netease-musicbox/config.json
+ 3531  cd .netease-musicbox
+ 3532  ll
+ 3533  vim config.json
+ 3534  cd ./wudao-dict/wudao-dict
+ 3535  LL
+ 3536  ll
+ 3537  wd word
+ 3538  word vector
+ 3539  wd vector
+ 3540  wd -h
+ 3541  wd -s vector
+ 3542  wd -s word
+ 3543  wd -s mean
+ 3544  wd  mean
+ 3545  wd -s -o  mean
+ 3546  musicbox
+ 3547  ll
+ 3548  vim config.json
+ 3549  musicbox
+ 3550  ll
+ 3551  cd musicbox
+ 3552  ll
+ 3553  sudo python3 setup.py install
+ 3554  vim config.json
+ 3555  musicbox
+ 3556  vim config.json
+ 3557  musicbox
+ 3558  cd ../../
+ 3559  ll
+ 3560  cd ../../
+ 3561  ll
+ 3562  cd mine
+ 3563  ll
+ 3564  clear
+ 3565  ll
+ 3566  clear
+ 3567  ll
+ 3568  cd
+ 3569  ll
+ 3570  clear
+ 3571  wd 中医
+ 3572  wd 只闻其声未见其人
+ 3573  wd　-o  只闻其声未见其人
+ 3574  wd -o 只闻其声未见其人
+ 3575  wd -o 只闻其声
+ 3576  wd -s 只闻其声
+ 3577  wd 只闻其声
+ 3578  wd -s 鼓励
+ 3579  wd -s 网友
+ 3580  wd -s 争抢
+ 3581  wd -０ 争抢
+ 3582  wd -s 身心健旺
+ 3583  wd -o 身心健旺
+ 3584  wd -s 生气
+ 3585  wd -s 寡病
+ 3586  wd -s 难免
+ 3587  git add README.md
+ 3588  git commit -m "update README.md"
+ 3589  git push origin master
+ 3590  cd ../AlgorithmNotes
+ 3591  ll
+ 3592  cd code
+ 3593  ll
+ 3594  vim                                                                                
+ 3595  vim pat_b1009.cpp
+ 3596  vim ~/.vimrc
+ 3597  vim pat_b1009.cpp
+ 3598  g++ pat_b1009.cpp
+ 3599  ./a.out
+ 3600  vim pat_b1009.cpp
+ 3601  man gets
+ 3602  man strlen
+ 3603  man reverse
+ 3604  g++ pat_b1009.cpp
+ 3605  man gets
+ 3606  vim pat_b1009.cpp
+ 3607  g++ pat_b1009.cpp -std=c++11
+ 3608  vim pat_b1009.cpp
+ 3609  g++ pat_b1009.cpp -std=c++11
+ 3610  vim pat_b1009.cpp
+ 3611  g++ pat_b1009.cpp -std=c++11
+ 3612  ./a.out
+ 3613  ll
+ 3614  rm a.out
+ 3615  ll
+ 3616  vim pat_b1009.cpp
+ 3617  g++ pat_b1009.cpp 
+ 3618  vim +26 pat_b1009.cpp
+ 3619  g++ pat_b1009.cpp -std=c++11
+ 3620  vim +33 pat_b1009.cpp
+ 3621  g++ pat_b1009.cpp -std=c++11
+ 3622  g++ pat_b1009.cpp
+ 3623  vim +33 pat_b1009.cpp
+ 3624  g++ pat_b1009.cpp
+ 3625  g++ pat_b1009.cpp -std=c++11
+ 3626  ll
+ 3627  rm a.out
+ 3628  g++ pat_b1009.cpp -std=c++11
+ 3629  ll
+ 3630  ./a.out
+ 3631  vim +33 pat_b1009.cpp
+ 3632  git add pat_b1009.cpp
+ 3633  git commit -m "add pat_b1009"
+ 3634  git push origin master
+ 3635  ll
+ 3636  cd ../../PythonCrashCourse
+ 3637  ll
+ 3638  cd code
+ 3639  ll
+ 3640  mkdir 37_import_class
+ 3641  ll
+ 3642  cd 37_import_class
+ 3643  ll
+ 3644  vim car.py
+ 3645  vim ~/.vimrc
+ 3646  vim car.py
+ 3647  vim my_car.py
+ 3648  ll
+ 3649  python my_car.py
+ 3650  vim +13 car.py
+ 3651  vim my_car.py
+ 3652  vim car.py
+ 3653  python my_car.py
+ 3654  ll
+ 3655  vim car
+ 3656  vim car.py
+ 3657  ll
+ 3658  vim my_electric_car.py
+ 3659  python my_electric_car.py
+ 3660  vim my_electric_car.py
+ 3661  python my_electric_car.py
+ 3662  vim my_electric_car.py
+ 3663  python my_electric_car.py
+ 3664  python3 my_electric_car.py
+ 3665  vim ../../README.md
+ 3666  git add ../../README.md
+ 3667  git commit -m "update README.md"
+ 3668  ll
+ 3669  vim my_cars.py
+ 3670  python3 my_cars.py
+ 3671  vim  my_cars.py
+ 3672  python3 my_cars.py
+ 3673  ll
+ 3674  cd ..
+ 3675  ll
+ 3676  git add 37_import_class/
+ 3677  git commit -m "add 37_import_class/"
+ 3678  git push origin master
+ 3679  cd /media/ianpasm/ianpasmer/download
+ 3680  ll
+ 3681  sudo dpkg -i minitube.deb
+ 3682  sudo apt -f install 
+ 3683  sudo dpkg -i minitube.deb
+ 3684  cd 
+ 3685  cd /media/ianpasm/DER
+ 3686  vim install.bat
+ 3687  ll
+ 3688  wine
+ 3689  sudo apt install wine
+ 3690  ll
+ 3691  cd ../../
+ 3692  ll
+ 3693  cd 
+ 3694  cd /media/ianpasm/DER
+ 3695  ll
+ 3696  ll -ls
+ 3697  ll -alh
+ 3698  vim crack.vbs
+ 3699  r -rf crack.vbs
+ 3700  rm -rf crack.vbs
+ 3701  ll
+ 3702  sudo rm -rf *
+ 3703  ll
+ 3704  mkdir 123
+ 3705  mkdir 325
+ 3706  touch 09
+ 3707  touch 09.txt
+ 3708  ll
+ 3709  sudo fdisk -l
+ 3710  ll
+ 3711  sudo apt remove --purge wine
+ 3712  wine
+ 3713  sudo apt remove --purge winetricks
+ 3714  sudo apt remove --purge configwine
+ 3715  sudo apt remove --purge wine*
+ 3716  sudo apt remove --purge *wine*
+ 3717  ll
+ 3718  =
+ 3719  ll
+ 3720  vim vector.cpp
+ 3721  g++ vector.cpp
+ 3722  ll
+ 3723  rm a.out
+ 3724  ll
+ 3725  g++ vector.cpp
+ 3726  ll
+ 3727  vim vector.cpp
+ 3728  g++ vector.cpp
+ 3729  vim vector.cpp
+ 3730  ll
+ 3731  cd ../cpp/../../excise
+ 3732  ll
+ 3733  cat *vector*
+ 3734  g++ vector.cpp
+ 3735  ./a.out
+ 3736  g++ vector.cpp
+ 3737  vim vector.cpp
+ 3738  g++ vector.cpp
+ 3739  ./a.out
+ 3740  vim vector.cpp
+ 3741  g++ vector.cpp
+ 3742  ./aq
+ 3743  ./a.out
+ 3744  vim vector.cpp
+ 3745  g++ vector.cpp
+ 3746  vim vector.cpp
+ 3747  g++ vector.cpp
+ 3748  ./a.out
+ 3749  ll
+ 3750  rm a.out
+ 3751  vim vector.cpp
+ 3752  sudo apt update && sudo apt upgrade
+ 3753  sudo apt-get remove wine1.6
+ 3754  ll
+ 3755  ls -alh
+ 3756  sudo rm -rf .wine
+ 3757  ll
+ 3758  sudo apt-get autoremove
+ 3759  cd .local
+ 3760  ll
+ 3761  cd share
+ 3762  ll
+ 3763  cd  applications
+ 3764  ll
+ 3765  rm -rf
+ 3766  ll
+ 3767  rm -rf *
+ 3768  ll
+ 3769  sudo rm *
+ 3770  ll
+ 3771  cd 
+ 3772  sudo rm -rf ~/.config/menus/applications-merged/wine*
+ 3773  cd .config
+ 3774  ll
+ 3775  cd menus
+ 3776  ll
+ 3777  cd applications-merged
+ 3778  ll
+ 3779  cd ..
+ 3780  ll
+ 3781  sudo rm -rf applications-merged
+ 3782  ll
+ 3783  sudo dpkg -i mu_1.0.0-beta4_ubuntu_amd64_0708ffe.deb
+ 3784  cd ..
+ 3785  ll
+ 3786  cd 
+ 3787  cd /media/ianpasm/ianpasmer/github/mine/Mindfulness
+ 3788  vim README.md
+ 3789  git add README.md
+ 3790  git commit -m "update README.md"
+ 3791  cd ../PythonCrashCourse
+ 3792  ll
+ 3793  vim README.md
+ 3794  git add README.md
+ 3795  git commit -m "update README.md"
+ 3796  cd ../AlgorithmNotes
+ 3797  ll
+ 3798  vim README.md
+ 3799  git status
+ 3800  ll
+ 3801  cd code
+ 3802  ll
+ 3803  rm a.out
+ 3804  ll
+ 3805  git status
+ 3806  ll
+ 3807  git rm codeup_1928-v1.cpp
+ 3808  ll
+ 3809  rm codeup_1928-v1.cpp
+ 3810  git rm codeup_1928-v1.cpp
+ 3811  git pull
+ 3812  ll
+ 3813  git mv codeup_1928.cpp codeup_1928-v1.cpp
+ 3814  git status
+ 3815  ll
+ 3816  git status
+ 3817  git pull
+ 3818  git status
+ 3819  ll
+ 3820  uname -r
+ 3821  vim
+ 3822  vim -v
+ 3823  ll
+ 3824  vim pat_b1001.cpp
+ 3825  ll
+ 3826  git add *
+ 3827  git commit -m "I dont know what changed
+ 3828  git commit -m "I dont know what changed"
+ 3829  git push origin master
+ 3830  cd ../../PythonCrashCourse
+ 3831  ll
+ 3832  git status
+ 3833  git push origin master
+ 3834  ll
+ 3835  vim README.md
+ 3836  cd ../Mindfulness
+ 3837  ll
+ 3838  git push origin master
+ 3839  adb reboot recovery
+ 3840  ll
+ 3841  cd ../
+ 3842  ll
+ 3843  cd PythonCrashCourse
+ 3844  ll
+ 3845  cd code
+ 3846  ll
+ 3847  clear
+ 3848  ll
+ 3849  mkdir 38_file_operation
+ 3850  cd 38_file_operation
+ 3851  ll
+ 3852  vlear
+ 3853  clear
+ 3854  vim pi_digits.txt
+ 3855  vim file_reader.py
+ 3856  python file_reader.py
+ 3857  vim file_reader.py
+ 3858  python file_reader.py
+ 3859  vim file_reader.py
+ 3860  python file_reader.py
+ 3861  ls ~
+ 3862  vim file_reader.py
+ 3863  python file_reader.py
+ 3864  ll
+ 3865  clear
+ 3866  vim file_reader.py
+ 3867  python file_reader.py
+ 3868  vim file_reader.py
+ 3869  python file_reader.py
+ 3870  vim file_reader.py
+ 3871  python file_reader.py
+ 3872  vim file_reader.py
+ 3873  python file_reader.py
+ 3874  vim file_reader.py
+ 3875  python file_reader.py
+ 3876  vim file_reader.py
+ 3877  ll
+ 3878  write_message.py
+ 3879  vim write_message.py
+ 3880  python write_message.py
+ 3881  ll
+ 3882  cat write
+ 3883  cat write.txt
+ 3884  vim write
+ 3885  vim write_message.py
+ 3886  python write_message.py
+ 3887  cat write.txt
+ 3888  vim write_message.py
+ 3889  python write_message.py
+ 3890  vim write_message.py
+ 3891  python write_message.py
+ 3892  cat write.txt
+ 3893  vim write_message.py
+ 3894  ll
+ 3895  cd ..
+ 3896  ll
+ 3897  mv 38_file_operation 38_file_exception
+ 3898  ll
+ 3899  cd 38
+ 3900  cd 38_file_exception
+ 3901  ll
+ 3902  cd ..
+ 3903  mv 38_file_exception 38_file_operation
+ 3904  ll
+ 3905  mkdir 39_exception
+ 3906  cd 39_exception
+ 3907  ll
+ 3908  vim division.py
+ 3909  ll
+ 3910  python division.py
+ 3911  ll
+ 3912  vim division.py
+ 3913  python division.py
+ 3914  vim +23 division.py
+ 3915  python division.py
+ 3916  vim +23 division.py
+ 3917  python division.py
+ 3918  vim +23 division.py
+ 3919  python division.py
+ 3920  vim +23 division.py
+ 3921  python3 division.py
+ 3922  vim +23 division.py
+ 3923  ll
+ 3924  vim alice.py
+ 3925  python alice.py
+ 3926  vim alice.py
+ 3927  python3 alice.py
+ 3928  vim alice.py
+ 3929  python3 alice.py
+ 3930  ll
