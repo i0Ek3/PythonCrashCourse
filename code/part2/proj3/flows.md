@@ -1,6 +1,6 @@
 # Learning Log Developed Flows
 
-This project the goal is developed a web application--Learning Log.
+The goal of this project is developed a web application--Learning Log.
 
 * Features
     * Record and append items
