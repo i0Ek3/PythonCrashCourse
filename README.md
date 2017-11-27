@@ -81,3 +81,4 @@ import this
 >>11-24:add how to stored data use json.And add test model after my class end today!Actually thays really waste time to write,but I finished something and remains I commit tommorow!Thats all.<br>
 >>11-25:no update cause of my pc-computer was broken!<br>
 >>11-26:add something about unittest,but still have boom in exc.py,fix later...review day<br>
+>>11-27:add part2.<br>
