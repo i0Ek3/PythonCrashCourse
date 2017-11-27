@@ -12,7 +12,7 @@ The goal of this project is developed a web application--Learning Log.
      ```Shell
      python(3) -m venv ll_env
      ```
-If created not successed maybe you should check your syetem whether have realted dev packages:
+If created not successed maybe you should check your syetem whether have related dev packages:
     ```Shell
     apt-get install python3-venv pip(3)
     ```
