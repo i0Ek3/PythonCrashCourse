@@ -35,6 +35,9 @@ import this
     If the implementation is easy to explain, it may be a good idea.
     Namespaces are one honking great idea -- let's do more of those!
 
+## Python Frame
+* [Django](https://www.djangoproject.com/)-A web frame tool to help you developed interactive website.
+
 ## Notes
 * Something you should know about write functions:
     * 给函数指定描述名称,且只用小写字母和下划线,模块名也如此:
@@ -82,3 +85,4 @@ import this
 >>11-25:no update cause of my pc-computer was broken!<br>
 >>11-26:add something about unittest,but still have boom in exc.py,fix later...review day<br>
 >>11-27:add part2.<br>
+>>12-03:I'm back and modified something.<br>
