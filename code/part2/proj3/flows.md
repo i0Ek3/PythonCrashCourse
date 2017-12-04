@@ -49,6 +49,9 @@ Then use `ls` to check it!
 python(3) manage.py runserver
 ```
 Then the picture like this:
+
 ![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/django-powered.png)
+
+If not and with error `That port is already in use`,please run command `python(3) manage.py runserver port` to change your avaiable port.
 
 
