@@ -86,3 +86,4 @@ import this
 >>11-26:add something about unittest,but still have boom in exc.py,fix later...review day<br>
 >>11-27:add part2.<br>
 >>12-03:I'm back and modified something.<br>
+>>12-04:add something about Django.<br>
