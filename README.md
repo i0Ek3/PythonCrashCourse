@@ -6,10 +6,6 @@ Python learning notes.This is not my first time to learn Python,but its my first
 print("Hello Python!")
 
 ```
-
-## Purpose
-Enhence my coding ability and develop a python game.Just for fun!
-
 ## Python之禅
 ```Python
 import this
@@ -34,6 +30,23 @@ import this
     If the implementation is hard to explain, it's a bad idea.
     If the implementation is easy to explain, it may be a good idea.
     Namespaces are one honking great idea -- let's do more of those!
+
+## Purpose
+Enhence my coding ability and develop a python game.Just for fun
+
+## Architecture
+```Python
+>code
+    >>part1
+        >>>basis gramar
+    >>part2
+        >>>proj1
+            >>>>Alien Invasion
+        >>>proj2
+            >>>>Data Visualization
+        >>>proj3
+            >>>>Web Application
+```
 
 ## Python Frame
 * [Django](https://www.djangoproject.com/)-A web frame tool to help you developed interactive website.
