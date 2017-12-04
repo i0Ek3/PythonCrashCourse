@@ -83,7 +83,7 @@ Enhence my coding ability and develop a python game.Just for fun
 
 
 ## Instances
-[click me](https://github.com/i0Ek3/PythonCrashCourse/tree/master/code)
+[click me](https://github.com/i0Ek3/PythonCrashCourse/tree/master/code/part1)
 
 
 ## Updates
