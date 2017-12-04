@@ -63,11 +63,11 @@ python(3) manage.py startapp learning_logs #build the enssencial dev
 Then use commands `ls` and `ls learning_logs` to look what is generated.
 
 ### Define Model
-* Modified models.py and add class Topic:
+* Modified models.py and add class Topic:<br>
 ![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/classTopic.png)
 
 ### Activate Model
-* Modified settings.py and add your application:
+* Modified settings.py and add your application:<br>
 ![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/applications.png)
 
 Then under the directory of manage.py to run command:
