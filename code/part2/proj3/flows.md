@@ -2,11 +2,12 @@
 
 The goal of this project is developed a web application--Learning Log.
 
-## Features
+# Features
     * Record and append items
     * Register and login
     * Create new topic and check existed items
 
+# Steps
 
 ## Build Virtual Environment
 ```Shell
@@ -18,7 +19,7 @@ sudo apt-get install python3-venv pip(3)
 ```
 Or run:
 ```Shell
-pip install --user virtualenv
+pip(3) install --user virtualenv
 ```
 
 ## Activate Virtual Environment
@@ -29,7 +30,7 @@ And run `deactivate` to stop virtual environment.
 
 ##  Install Diango
 ```Shell
-pip install Django
+pip(3) install Django
 ```
 ##  Create new project under the Django
 ```Shell
@@ -109,9 +110,8 @@ The picture like this:<br>
 * python(3) manage.py migrate
 
 ### Register Entry to Manage Website
-* Modified admin.py
+* Modified admin.py<br>
 ![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/adminEntry.png)<br>
-
 * Add items to topics
 
 ### Django Shell
@@ -126,3 +126,5 @@ The picture like this:
 ![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/DjangoShell.png)
 
 
+# Issues
+It's hard to avoid some errors,if you find something wrong please tell me generously and welcome to issue me.Any others problem you can visit [Django Documents](https://docs.djangoproject.com/en/2.0/ 'welcome to click me!').
