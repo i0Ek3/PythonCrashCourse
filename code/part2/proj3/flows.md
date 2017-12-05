@@ -125,6 +125,31 @@ python(3) manage.py shell
 The picture like this:
 ![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/DjangoShell.png)
 
+## Create Page:Learning_logs Mainpage
+In short,you need to do under these steps:
+* Define URL:describe URL how to design
+* Compile View
+* Compile Template
+
+### Reflect URL
+* Add learning_log's url on /learning_log/urls.py.Don't forget header<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/log_urls.png)<br>
+* Add urls.py under /learning_logs/<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/logs_urls.png)
+
+### Compile View
+* Add view on /learning_logs/views.py<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/view.png)
+
+### Compile Template
+* Create new folder whose named template under the learning_logs/
+* Create new folder whose named learning_logs under the templates/
+* Create a file whose named index.html and add something<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/index.png)<br>
+Then you check http://localhost:8000/ again will show you under this:<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/indexhtml.png)
+
+
 
 # Issues
 It's hard to avoid some errors,if you find something wrong please tell me generously and welcome to issue me.Any others problem you can visit [Django Documents](https://docs.djangoproject.com/en/2.0/ 'welcome to click me!').
