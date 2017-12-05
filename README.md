@@ -100,3 +100,4 @@ Enhence my coding ability and develop a python game.Just for fun
 >>11-27:add part2.<br>
 >>12-03:I'm back and modified something.<br>
 >>12-04:add something about Django.<br>
+>>12-05:add main page on application.<br>
