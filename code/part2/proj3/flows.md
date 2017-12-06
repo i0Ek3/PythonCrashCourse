@@ -3,9 +3,9 @@
 The goal of this project is developed a web application--Learning Log.
 
 # Features
-    * Record and append items
-    * Register and login
-    * Create new topic and check existed items
+* Record and append items
+* Register and login
+* Create new topic and check existed items
 
 # Steps
 
