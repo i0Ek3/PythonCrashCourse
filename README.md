@@ -84,4 +84,4 @@ Enhence my coding ability and develop a python game.Just for fun
 >>12-03:I'm back and modified something.<br>
 >>12-04:add something about Django.<br>
 >>12-05:add main page on application.<br>
->>[...](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/updates.md 'More')
+>>[More...](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/updates.md 'More')
