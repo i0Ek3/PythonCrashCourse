@@ -149,6 +149,34 @@ In short,you need to do under these steps:
 Then you check http://localhost:8000/ again will show you under this:<br>
 ![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/indexhtml.png)
 
+## Create Other Webpages
+###Template Inherit
+* Father Template
+Create a base.html under the direction where the file index.html exisited.<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/basehtml.png)
+
+* Child Template
+Rewrite index.html to inherit base.html.<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/reindexhtml.png)
+
+### Show Pages of All Theme
+* URL Pattern
+Revise urls.py under the learning_logs/<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/revise-urls.png)
+
+### View
+Add codes on views.py.<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/addtoview.png)
+
+### Template
+Create a file whose named topics.html under the learning_logs/templates/learning_logs/.<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/topichtml.png)
+
+Revise father template.<br> 
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/revise-topic-2.png)<br>
+Then you can see like under this while you access http://localhost:8000/topics/:<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/html4topics.png)
+
 
 
 # Issues
