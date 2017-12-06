@@ -150,6 +150,7 @@ Then you check http://localhost:8000/ again will show you under this:<br>
 ![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/indexhtml.png)
 
 ## Create Other Webpages
+
 ###Template Inherit
 * Father Template
 Create a base.html under the direction where the file index.html exisited.<br>
@@ -159,16 +160,16 @@ Create a base.html under the direction where the file index.html exisited.<br>
 Rewrite index.html to inherit base.html.<br>
 ![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/reindexhtml.png)
 
-### Show Pages of All Theme
+### Show Pages of All Topics
 * URL Pattern
 Revise urls.py under the learning_logs/<br>
 ![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/revise-urls.png)
 
-### View
+### View<br>
 Add codes on views.py.<br>
 ![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/addtoview.png)
 
-### Template
+### Template<br>
 Create a file whose named topics.html under the learning_logs/templates/learning_logs/.<br>
 ![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/topichtml.png)
 
@@ -177,6 +178,24 @@ Revise father template.<br>
 Then you can see like under this while you access http://localhost:8000/topics/:<br>
 ![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/html4topics.png)
 
+### Show Pages of Specific Topic
+* URL Pattern
+Revise urls.py under learning_logs/.<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/addIdToUrls.png)
+
+* View
+Revise views.py under learning_logs/.<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/addTopicToView.png)
+
+* Template
+Create a file whoes named topic.html under learning_logs/templates/learning_logs/.<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/newTopic.png)
+
+* Set Every Topic As a Link on Pages of All Topics Shown
+Revise topics.html.<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/addToTopics.png)<br>
+Then access http://localhost:8000/topics/1/ you can see like under this:<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/showidhtml.png)
 
 
 # Issues
