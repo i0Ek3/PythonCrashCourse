@@ -151,7 +151,7 @@ Then you check http://localhost:8000/ again will show you under this:<br>
 
 ## Create Other Webpages
 
-###Template Inherit
+### Template Inherit
 * Father Template
 Create a base.html under the direction where the file index.html exisited.<br>
 ![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/basehtml.png)
@@ -179,19 +179,19 @@ Then you can see like under this while you access http://localhost:8000/topics/:
 ![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/html4topics.png)
 
 ### Show Pages of Specific Topic
-* URL Pattern
+* URL Pattern<br>
 Revise urls.py under learning_logs/.<br>
 ![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/addIdToUrls.png)
 
-* View
+* View<br>
 Revise views.py under learning_logs/.<br>
 ![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/addTopicToView.png)
 
-* Template
+* Template<br>
 Create a file whoes named topic.html under learning_logs/templates/learning_logs/.<br>
 ![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/newTopic.png)
 
-* Set Every Topic As a Link on Pages of All Topics Shown
+* Set Every Topic As a Link on Pages of All Topics Shown<br>
 Revise topics.html.<br>
 ![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/addToTopics.png)<br>
 Then access http://localhost:8000/topics/1/ you can see like under this:<br>
