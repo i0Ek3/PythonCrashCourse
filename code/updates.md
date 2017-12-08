@@ -14,4 +14,4 @@
 >>12-03:I'm back and modified something.<br>
 >>12-04:add something about Django.<br>
 >>12-05:add main page on application.<br>
->>
+>>12-08:just stop learning Python course now cause of there is an exam waitting for me,update in my holiday!<br>
