@@ -231,7 +231,8 @@ Create new file new_topic.html under learning_logs/templates/learning_logs/.<br>
 
 Add a link in topics to new_topic.<br>
 
-
+![add new topic1](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/ant1.jpg)<br>
+![add new topic2](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/ant2.jpg)<br>
 
 ### Add New Item
 
