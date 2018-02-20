@@ -15,9 +15,10 @@
 >>12-04:add something about Django.<br>
 >>12-05:add main page on application.<br>
 >>12-08:just stop learning Python course now cause of there is an exam waitting for me,update in my holiday!<br>
->>12-24:The remains projects of part2 will be update in my this winter vacation!<br>
+>>12-24:the remains projects of part2 will be update in my this winter vacation!<br>
 
-
+>2018
+>>02-20:add new topic part int proj3.<br>
 
 
 
