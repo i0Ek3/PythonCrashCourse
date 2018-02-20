@@ -23,8 +23,10 @@ urlpatterns = [
         # detail page of specific topic
         url(r'^topics/(?P<topic_id>\d+)/$',views.topic,name='topic'),
 
-        # a web as add new topic
+        # a page as add a new topic
         url(r'^new_topic/$',views.new_topic, name='new_topic'),
 
-
+        # a page as add a new topic
+        url(r'^new_entry/(?P<topic_id>\d+)/$',views.new_entry,name='new_entry'),
+ 
         ]
