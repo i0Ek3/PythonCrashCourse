@@ -2,7 +2,7 @@
 
 The goal of this project is developed a web application--Learning Log.
 
-# Features
+## Features
 * Record and append items
 * Register and login
 * Create new topic and check existed items
@@ -196,6 +196,50 @@ Revise topics.html.<br>
 ![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/addToTopics.png)<br>
 Then access http://localhost:8000/topics/1/ you can see like under this:<br>
 ![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/showidhtml.png)
+
+
+
+# Users Account
+
+## Let Users Can Input Data
+
+This step same as before web we created. 
+
+### Add New Topic
+
+- Tables As Add Topic<br>
+
+We always use ModelForm to create table in Django.Now we create a file named forms.py and store it in the folder which is file models.py exisit.<br>
+
+- URL Pattern *new_topic*
+
+Add url() into urls.py under learning_logs/.<br>
+
+- View Function new_topic()
+
+Add somthing into views.py.<br>
+
+- Request GET And POST
+    - GET:read data only form server,null table
+    - POST:users commit info from table,nonnull table
+
+- Template new_topic
+
+Create new file new_topic.html under learning_logs/templates/learning_logs/.<br>
+
+- Link To Page new_topic
+
+Add a link in topics to new_topic.<br>
+
+
+
+### Add New Item
+
+
+
+
+
+
 
 
 # Issues
