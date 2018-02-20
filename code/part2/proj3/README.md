@@ -236,6 +236,46 @@ Add a link in topics to new_topic.<br>
 
 ### Add New Item
 
+- Tables As Add Item<br>
+
+We need to create a table which is related with model Entry but high coustomlizition than TopicForm.<br> 
+
+- URL Partten new_entry()
+
+- View Function new_entry()
+
+It's just look like new_topic().<br>
+
+- Template new_entry
+
+Looks like template new_topic.<br>
+
+- Link To Page new_entry
+
+We should add a link to page new_entry which shown special topic.<br>
+
+
+### Edit Item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

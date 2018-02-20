@@ -18,7 +18,7 @@
 >>12-24:the remains projects of part2 will be update in my this winter vacation!<br>
 
 >2018
->>02-20:add new topic part int proj3.<br>
+>>02-20:add new topic part in proj3.<br>
 
 
 
