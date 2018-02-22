@@ -257,11 +257,21 @@ We should add a link to page new_entry which shown special topic.<br>
 
 ### Edit Item
 
+- URL Pattern edit_entry
 
+Revise /learning_logs/ulrs.py to transfer item id you want to edit.<br>
 
+- View Function edit_entry()
 
+Edit views.py to make changes can save into database.<br>
 
+- Template edit_entry
 
+edit_entry.html looks same as new_entry.html.<br>
+
+- Link To page edit_entry
+
+Add link to page edit_entry for every item.<br>
 
 
 
