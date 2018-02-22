@@ -1,6 +1,8 @@
 # Learning Log Developed Flows
 
-The goal of this project is developed a web application--Learning Log.
+The goal of this project is developed a web application--Learning Log.<br>
+
+**ATTENTION!!!All of root folder leaning_log/ mentioned in this README.md same as my folder proj3/,please note.**
 
 ## Features
 * Record and append items
@@ -274,19 +276,76 @@ edit_entry.html looks same as new_entry.html.<br>
 Add link to page edit_entry for every item.<br>
 
 
+## Create User Account
 
+### Create New Application *users*
 
+Use command to create as follows:<br>
+```Shell
+$ python manage.py startapp users
+```
 
+- Add Application users Into settings.py
 
+Add this new application into INSTALLED_APPS in file /learning_log/settings.py.Then Django will include this application in project.<br>
 
+- A URL Includes Application users
 
+Now we need to revise urls.py in /learning_log to make it includes defined URL for application users.<br>
 
+### Login Page
 
+This step we will use default login view to implement the function of login page supported by Django.We do so,the pattern URL will differ with before.Under folder /learning_log/users,create a new file named urls.py and add codes.<br>
 
+- Template login.html
 
+We should create a new folder templates under learning_log(my folder is proj3/)/users/,as well as create a new folder users under templates/.<br> 
 
+- Link To Login Page
 
+Add link to login page in learning_logs/templates/learning_logs/base.html.<br> 
 
+- Use Login Page
+
+Please visit http://localhost:8000/admin/ to check our login page whether work.If that page not work well please close last command first and re-run it.<br>
+
+### Logout
+
+Now we need to define a pattern URL for logout link to make users logout easily.<br>
+
+- Logout URL
+
+Define a URL pattern for logout in learning_log/users/urls.py.<br>
+
+- View Function logout_view()
+
+Function logout_view() is sample just import and call logout() form Django then redirect it to homepage.Now we should revise users/views.py and add codes.<br>
+
+- Link To Logout View
+
+Now we need to add a logout link in base.html.<br>
+
+### Register Page
+
+Next we will create a page make users who can register for it as well as we use table UserCreationForm to write ourself function and template of view which is supported by Django.<br> 
+
+- The URL Pattern of Register Page
+
+Now we need to revise users/urls.py to define the URL pattern of register page.<br>
+
+- View Function register()
+
+`register()` need to display a null register table when register page first time to be requested,then process the table when users comnmitted.Now we should add codes in /users/views.py.<br>
+
+- Template Register
+
+Similar with template of login page,write a register.html and save it into folder which login.html exist.<br> 
+
+- Link To Register Page
+
+We add codes to show unregister users register page in base.html.<br>
+
+Now we finished user login,logout,register function,the next we will make users to have their own independent data,let us wait and see what happens!<br>
 
 
 
