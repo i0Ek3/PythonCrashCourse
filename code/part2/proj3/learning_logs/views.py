@@ -2,7 +2,7 @@ from django.shortcuts import render
 from django.http import HttpResponseRedirect 
 from django.core.urlresolvers import reverse
 
-from .models import Topic
+from .models import Topic,Entry
 from .forms import TopicForm,EntryForm
 # Create your views here.
 
@@ -30,7 +30,7 @@ def new_topic(request):
         #uncommit data then create new table
         form = TopicForm()
     else:
-        # data committed by POST,procrssing data
+        # data committed by POST,processing data
         form = TopicForm(request.POST)
         if form.is_valid():
             form.save()
@@ -47,7 +47,7 @@ def new_entry(request,topic_id):
         # uncommitt data then create a null table
         form = EntryForm()
     else:
-        # data commited by POST,processing data
+        # data committed by POST,processing data
         form = EntryForm(data=request.POST)
         if form.is_valid():
             new_entry = form.save(commit=False)
@@ -57,6 +57,30 @@ def new_entry(request,topic_id):
 
         context = {'topic': topic,'form': form}
         return render(request,'learning_logs/new_entry.html',context)
+
+def edit_entry(request,entry_id):
+    """edit exist item"""
+    entry = Entry.objects.get(id=entry_id)
+    topic = entry.topic
+
+    if request.method != 'POST':
+        # first time to request,use current item fill table
+        form = EntryForm(instance=entry)
+    else:
+        # data committed by POST,processing data
+        form = EntryForm(instance=entry,data=request.POST)
+        if form.is_valid():
+            form.save()
+            return HttpResponseRedirect(reverse('learning_logs:topic',args=[topic.id]))
+
+    context = {'entry': entry,'topic': topic,'form': form}
+    return render(request,'learning_logs/edit_entry.html',context)
+
+
+
+
+
+
 
 
 

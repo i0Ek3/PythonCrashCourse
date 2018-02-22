@@ -28,5 +28,8 @@ urlpatterns = [
 
         # a page as add a new topic
         url(r'^new_entry/(?P<topic_id>\d+)/$',views.new_entry,name='new_entry'),
- 
+
+        # a page as a item edit
+        url(r'^edit_entry/(?P<entry_id>\d+)/$',views.edit_entry,name='edit_entry'),
+
         ]
