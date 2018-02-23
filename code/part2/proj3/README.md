@@ -432,7 +432,56 @@ Actually you will see an IntegrityError when you add a new topic.That's means yo
 
 ## Style And Deploy
 
+- Install django-bootstrap3
+```Shell
+$ sudo pip install django-bootstrap3
+```
+    - revise settings.py and application under the INSTALLED_APPS
 
+- Use Bootstrap Set Project Style
+    - revise base.html with bootstrap template
+    - revise /learning_logs/templates/learning_logs/login.html with jumbotron
+    - set topic page style:revise new_topic.html
+    - set topics page style:revise topics.html
+    - set item style in topic page
+
+- Deploy
+    - Use Heroku To Deploy
+        - visit https://heroku.com/ to register a new account
+        - install heroku toolbet
+        ```Shell
+        $ brew install heroku/brew/heroku
+        ```
+        - install dependencies
+        ```Shell
+        $ sudo pip install dj-database-url dj-static static3 gunicorn
+        ```
+    - create a file named requirements.txt which includs package list
+    ```Shell
+    $ pip freeze > requirements.txt
+    ```
+        - add this line `psycopg2>=2.7.4` in requirements.txt
+    - appoint python version
+        - create a new file named `runtime.txt` in root folder
+    - revise settings.py
+    - create a file named `Procfile` for boot process in root folder
+    - revise wsgi.py with Cling
+    - create a folder `static` to store static files under learning_log/
+    - use gunicorn server on local
+    ```Shell
+    $ heroku local
+    ```
+    - use git to track project files
+        - config git(help yourself)
+    - commit project
+    - push to Heroku
+    ```Shell
+    $ heroku login
+    $ heroku create
+    $ git push heroku master
+    $ heroku ps
+    $ heroku open
+    ```
 
 
 # Issues
