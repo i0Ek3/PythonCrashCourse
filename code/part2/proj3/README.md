@@ -208,6 +208,7 @@ Then access http://localhost:8000/topics/1/ you can see like under this:<br>
 This step same as before web we created. 
 
 ### Add New Topic
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/ant-add.jpg)<br>
 
 - Tables As Add Topic<br>
 
@@ -235,10 +236,16 @@ Add a link in topics to new_topic.<br>
 
 ![add new topic1](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/ant1.jpg)<br>
 ![add new topic2](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/ant2.jpg)<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/ant3.jpg)<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/ant4.jpg)<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/ant5.jpg)<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/ant6.jpg)<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/ant7.jpg)<br>
+
 
 ### Add New Item
 
-- Tables As Add Item<br>
+- Tables As Add Item
 
 We need to create a table which is related with model Entry but high coustomlizition than TopicForm.<br> 
 
@@ -308,6 +315,10 @@ Add link to login page in learning_logs/templates/learning_logs/base.html.<br>
 - Use Login Page
 
 Please visit http://localhost:8000/admin/ to check our login page whether work.If that page not work well please close last command first and re-run it.<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/login_page.jpg)<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/login_page1.jpg)<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/login_page2.jpg)<br>
+
 
 ### Logout
 
@@ -324,6 +335,7 @@ Function logout_view() is sample just import and call logout() form Django then 
 - Link To Logout View
 
 Now we need to add a logout link in base.html.<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/logout_page.jpg)<br>
 
 ### Register Page
 
@@ -344,6 +356,10 @@ Similar with template of login page,write a register.html and save it into folde
 - Link To Register Page
 
 We add codes to show unregister users register page in base.html.<br>
+
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/register.jpg)<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/register1.jpg)<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/register-test.jpg)<br>
 
 Now we finished user login,logout,register function,the next we will make users have their own independent data,let us wait and see what happens!<br>
 
@@ -381,19 +397,23 @@ $ python manage.py shell
 (u'll_admin', 1)
 (u'test, 2) 
 ```
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/ensure_users.jpg)<br>
+
 
 - Migrate Database
 ```Shell
 $ python manage.py makemigrations learning_logs
 $ python manage.py migrate
 ```
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/migrate_databse.jpg)<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/migrate.jpg)<br>
 When done,you should do this on last django shell:<br>
 ```Shell
 >>> from learning_logs.models import Topic
 >>> for topic in Topic.objects.all():
 ...     print(topic, topic.owner)
 ...
-
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/ensure_migrate.jpg)<br>
 ```
 
 ### Only Users Access Their Own Topic
@@ -407,7 +427,8 @@ Revise  /learning_logs/views.py to check requested topic belonged to current use
 ### Relevance New Topic To Current User
 
 Actually you will see an IntegrityError when you add a new topic.That's means you must assign a value for owner segment when you add a new topic.So we need to revise codes in /learning_logs/views.py.<br>
-
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/intergtityerror.jpg)<br>
+![](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj3/pic/add_new_topic.jpg)<br>
 
 ## Style And Deploy
 
