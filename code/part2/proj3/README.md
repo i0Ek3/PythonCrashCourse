@@ -464,7 +464,7 @@ $ sudo pip install django-bootstrap3
     - appoint python version
         - create a new file named `runtime.txt` in root folder
     - revise settings.py
-    - create a file named `Procfile` for boot process in root folder
+    - create a file named `Procfile` for boot progress in root folder
     - revise wsgi.py with Cling
     - create a folder `static` to store static files under learning_log/
     - use gunicorn server on local
