@@ -1,4 +1,5 @@
 from django.db import models
+from django.contrib.auth.models import User
 
 # Create your models here.
 
@@ -7,6 +8,7 @@ class Topic(models.Model):
 
     text = models.CharField(max_length=200)
     date_added = models.DateTimeField(auto_now_add=True)
+    owner = models.ForeignKey(User)
 
     def __str__(self): #If you use python2.7 please change this function into __unicode__()
         """Return the string of model"""
