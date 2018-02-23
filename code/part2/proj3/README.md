@@ -345,9 +345,71 @@ Similar with template of login page,write a register.html and save it into folde
 
 We add codes to show unregister users register page in base.html.<br>
 
-Now we finished user login,logout,register function,the next we will make users to have their own independent data,let us wait and see what happens!<br>
+Now we finished user login,logout,register function,the next we will make users have their own independent data,let us wait and see what happens!<br>
 
 
+## Make Users Have Their Own Independent Data
+
+We will create a system to make users enable input their spefic data then shows different page to different users according by data whose belonged.<br> 
+
+### Use @login_required to Limit Access
+
+@login_required is a decorator supported by Django,it can be easily implement the gogal above.<br>
+
+- Limit Access To topics Page
+
+We need revise codes in /learning_logs/views.py to limit access and revise codes in /learning_log/settings.py to redirect unlogin users to login page.<br>
+
+- Limit Access To Project 'Learning_log' Fully
+
+To protect some page avoid dangers we should limit access fully.So we should add @login_required for all views expect view index() in /learning_logs/views.py.<br>
+
+- Relevance Data To Users
+
+We just need to relevance high level data to users，that is to say we need relevance topic.So we need to revise model Topic to add a foreign key in /learning_logs/models.py..<br>
+
+- Ensure Users
+
+Now we should check all users ID we created by commands follows:<br> 
+```Shell
+$ python manage.py shell
+>>> from django.conrtib.auth.models import User
+>>> User.objects.all()
+>>> for user in User.objects.all():
+...     print(user.username, user.id)
+...     
+(u'll_admin', 1)
+(u'test, 2) 
+```
+
+- Migrate Database
+```Shell
+$ python manage.py makemigrations learning_logs
+$ python manage.py migrate
+```
+When done,you should do this on last django shell:<br>
+```Shell
+>>> from learning_logs.models import Topic
+>>> for topic in Topic.objects.all():
+...     print(topic, topic.owner)
+...
+
+```
+
+### Only Users Access Their Own Topic
+
+Current suiation we can visit all topic we want,now let us change this suiation.So you should revise code in /learning_logs/views.py.<br>
+
+### Protect Topic Form Users
+
+Revise  /learning_logs/views.py to check requested topic belonged to current user.<br>
+
+### Relevance New Topic To Current User
+
+Actually you will see an IntegrityError when you add a new topic.That's means you must assign a value for owner segment when you add a new topic.So we need to revise codes in /learning_logs/views.py.<br>
+
+
+## Style And Deploy
 
 
 
