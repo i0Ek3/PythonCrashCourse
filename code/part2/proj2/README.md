@@ -18,4 +18,7 @@ $ python   # on my macOS I need run python,maybe you should run python3
 ## Draw Simple Line Chart
 
 Write your own mpl_squares.py file then run `python mpl_squares.py` to check it.<br>
-![15-2](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/15-2.png)<br> 
+![15-2](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/15-2.png)<br>
+
+The chart you can see something wrong,so we need add input_values for plot() to revise chart.<br>
+![15-2_1](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/15-2_1.png)<br>
