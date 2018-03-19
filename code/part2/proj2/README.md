@@ -36,3 +36,23 @@ We can use `cmap` parameter to implement color reflect.You can visit [this site]
 ![15-7](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/15-7.png)<br>
 
 Additional,you can call savefig() to place show() to save figure in your files.<br>
+
+## Wander Random
+
+Create class RandomWalk() which includes method __init__() and fill_walk().<br>
+
+Drawing the random walk chart.<br>
+![15-8](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/15-8.png)<br>
+
+Simulate random walk times more and set its style.<br>
+![15-9](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/15-9.png)<br>
+
+Redrawing origin and destination and hide coordinate.<br>
+![15-10](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/15-10.png)<br>
+
+
+
+
+
+
+
