@@ -50,9 +50,27 @@ Simulate random walk times more and set its style.<br>
 Redrawing origin and destination and hide coordinate.<br>
 ![15-10](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/15-10.png)<br>
 
+## Use Pygal simulate dicing
+
+Install Pygal and go to [this site](http://www.pygal.org) to check Pygal gallery.<br>
+```Shell
+$ pip install --user pygal==1.7
+```
+
+Then you should create a Die class and throw dice.<br>
+
+Drawing histogram then you can check .svg file to see chart which holds interaction.<br>
+![15-11](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/15-11.png)<br>
+
+Now we will throw two dices in the same time.<br>
+![15-12](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/15-12.png)<br>
+
+Now we will throw two dices with different sides in the same time.<br>
+![15-13](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/15-13.png)<br>
 
 
 
 
 
+##
 
