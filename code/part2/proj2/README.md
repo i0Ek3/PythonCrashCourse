@@ -1,7 +1,8 @@
 # Data Visualization
 
+## Generate Data
 
-## Install [matplotlib](http://matplotlib.org)
+### Install [matplotlib](http://matplotlib.org)
 ```Shell
 $ pip install --user matplotlib # for macOS
 $ sudo apt install python3-matplotlib # for linux
@@ -15,7 +16,7 @@ $ python   # on my macOS I need run python,maybe you should run python3
 >>>
 ```
 
-## Draw Simple Line Chart
+### Draw Simple Line Chart
 
 Write your own mpl_squares.py file then run `python mpl_squares.py` to check it.<br>
 ![15-2](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/15-2.png)<br>
@@ -37,7 +38,7 @@ We can use `cmap` parameter to implement color reflect.You can visit [this site]
 
 Additional,you can call savefig() to place show() to save figure in your files.<br>
 
-## Wander Random
+### Wander Random
 
 Create class RandomWalk() which includes method __init__() and fill_walk().<br>
 
@@ -50,7 +51,7 @@ Simulate random walk times more and set its style.<br>
 Redrawing origin and destination and hide coordinate.<br>
 ![15-10](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/15-10.png)<br>
 
-## Use Pygal simulate dicing
+### Use Pygal simulate dicing
 
 Install Pygal and go to [this site](http://www.pygal.org) to check Pygal gallery.<br>
 ```Shell
@@ -69,8 +70,22 @@ Now we will throw two dices with different sides in the same time.<br>
 ![15-13](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/15-13.png)<br>
 
 
+## Download Data
+
+### CSV Type File
+
+CSV file:data value divided by series of comma.Then fetch data and drawing graphic.<br>
+![16-1](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/16-1.png)<br>
 
 
 
-##
+
+
+
+
+
+
+
+
+
 
