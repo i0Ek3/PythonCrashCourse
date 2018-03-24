@@ -77,9 +77,21 @@ Now we will throw two dices with different sides in the same time.<br>
 CSV file:data value divided by series of comma.Then fetch data and drawing graphic.<br>
 ![16-1](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/16-1.png)<br>
 
+Use model datatime to add date in wheather file.<br>
+![16-2](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/16-2.png)<br>
 
+Create whole years wheather graphic.Then drawing more a series of data.<br>
+![16-4](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/16-4.png)<br>
 
+Colour for area.<br>
+![16-5](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/16-5.png)<br>
 
+Error checking.<br>
+```Shell
+$ python highs_lows.py
+(datetime.datetime(2014, 2, 16, 0, 0), 'missing data')
+```
+![16-6](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/16-6.png)<br>
 
 
 
