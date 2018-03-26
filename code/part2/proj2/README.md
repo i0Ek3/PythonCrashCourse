@@ -93,11 +93,15 @@ $ python highs_lows.py
 ```
 ![16-6](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/16-6.png)<br>
 
+### Making JSON Type World Population Map
 
+Fetch data(two letter nationality code) and convert it into some type which pygal can deal.<br>
 
+Making world map.<br>
+![16-7](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/16-7.png)<br>
 
-
-
+Show the data on the world map.<br>
+![16-8](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/16-8.png)<br>
 
 
 
