@@ -103,5 +103,17 @@ Making world map.<br>
 Show the data on the world map.<br>
 ![16-8](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/16-8.png)<br>
 
+Drawing the full world map of population.<br>
+![16-9](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/16-9.png)<br>
+
+Grouping country accroding population.<br>
+![16-10](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/16-10.png)<br>
+
+Use Pygal to set world map style,then enlight themes topic.<br>
+
+
+
+
+
 
 
