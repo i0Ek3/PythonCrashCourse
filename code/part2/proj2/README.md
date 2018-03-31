@@ -109,10 +109,11 @@ Drawing the full world map of population.<br>
 Grouping country accroding population.<br>
 ![16-10](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/16-10.png)<br>
 
-Use Pygal to set world map style,then enlight themes topic.<br>
+Use Pygal to set world map style,then use `LightColorizedStyle` enlight themes topic.<br>
+![16-11](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/16-11.png)<br>
+![16-12](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj2/pic/16-12.png)<br>
 
-
-
+Also you can special alias to set style like this:`from pygal.style import LightColorizedStyle as LCS, RotateStyle as RS` and defined with `wm_style = RS('#336699',base_style=LCS)` .<br>
 
 
 
