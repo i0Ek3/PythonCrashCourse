@@ -116,5 +116,15 @@ Use Pygal to set world map style,then use `LightColorizedStyle` enlight themes t
 Also you can special alias to set style like this:`from pygal.style import LightColorizedStyle as LCS, RotateStyle as RS` and defined with `wm_style = RS('#336699',base_style=LCS)` .<br>
 
 
+## API
+
+You can visit [this site 'Github API'](https://api.github.com/search/repositories?q=language:python&sort=starts) to see something about github api suation.<br>
+
+Easy to request information from website and check it's return response.<br>
+```Shell
+$ pip install --user requests
+```
+
+
 
 
