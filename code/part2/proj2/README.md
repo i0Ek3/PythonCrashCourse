@@ -120,10 +120,15 @@ Also you can special alias to set style like this:`from pygal.style import Light
 
 You can visit [this site 'Github API'](https://api.github.com/search/repositories?q=language:python&sort=starts) to see something about github api suation.<br>
 
-Easy to request information from website and check it's return response.<br>
+Easy to request information from website and check it's return response.Maybe you need run this command first:<br>
 ```Shell
 $ pip install --user requests
 ```
+
+Also you can visit [this site](https://api.github.com/rate_limit) to check rate constain of API.<br>
+
+
+Use Pygal to visualizate repositories.<br>
 
 
 
