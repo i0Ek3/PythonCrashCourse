@@ -19,7 +19,10 @@ $ pip3 install --user hg+http://bitbucket.org/pygame/pygame #install pygame
 ```
 
 
-### 1.3 Start
+### 1.3 Start Project of the Game
+
+You should create a windows for pygame, check code in alien_invasion.py.Then setting your backgroud color in it. <br>
+
 
 ### 1.4 Add Airship Image
 
