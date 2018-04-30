@@ -26,6 +26,10 @@ You should create a windows for pygame, check code in alien_invasion.py.Then set
 
 ### 1.4 Add Airship Image
 
+Add picture to game use free site like http://pixabay.com/. Pygame load .bmp defaultly, you'd better choose a picture which has transparency background color. More visit /images. <br>
+![12-2](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj1/pic/12-2.png)<br>
+
+
 ### 1.5 Reconsitution: game_functions Model
 
 ### 1.6 Dirve Airship
