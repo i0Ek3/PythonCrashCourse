@@ -32,7 +32,19 @@ Add picture to game use free site like http://pixabay.com/. Pygame load .bmp def
 
 ### 1.5 Reconsitution: game_functions Model
 
+We will create a new model named game_functions which will save lots of fuctions for running game and avoid alien_invasion.py much longer.
+
+We split some codes into check_events() and update_screen() in game_functions.py.
+
+
 ### 1.6 Dirve Airship
+
+Now we should make gamer to control the airship to move. Use direction key to response actions. We also use event KEYDOWN and KEYUP to write code.
+
+To avoid the airship move out of the screen we should optimized codes now, so we will revised update() in class ship.
+
+Then we should reconsitute check_events().
+
 
 ### 1.7 Review
 

@@ -7,10 +7,11 @@
 #!/usr/bin/env python3
 # coding=utf-8
 
-import sys
 import pygame
 from settings import Settings
 from ship import Ship
+import game_functions as gf 
+
 
 def run_game():
     pygame.init()
@@ -23,17 +24,22 @@ def run_game():
     bg_color = (230, 230, 230)
 
     # create an airship
-    ship = Ship(screen)
+    ship = Ship(ai_settings, screen)
 
     while True: #loop to update code on the screen
-        for event in pygame.event.get(): #visit event
-            if event.type == pygame.QUIT:
-                sys.exit() #exit the game
+        gf.check_events(ship)
 
-        screen.fill(ai_settings.bg_color) #every time to loop to update screen, color defined by RGB range in 0~255.
-        ship.blitme()
-        
-        pygame.display.flip() #make the screen visible which pictured on nearly
+        # follows codes replaced by check_events() in game_functions.py 
+        #  for event in pygame.event.get(): #visit event
+        #      if event.type == pygame.QUIT:
+        #          sys.exit() #exit the game
+        ship.update()
+        gf.update_screen(ai_settings, screen, ship)
+        # follows codes replaced by update_screen() in game_functions.py 
+        #  screen.fill(ai_settings.bg_color) #every time to loop to update screen, color defined by RGB range in 0~255.
+        #  ship.blitme()
+        #
+        #  pygame.display.flip() #make the screen visible which pictured on nearly
 
 run_game()
 
