@@ -53,6 +53,9 @@ This knobble we should reviewed the codes what we created last time.
 
 ### 1.8 Shoot
 
+Now we should add shoot function to airship. We need to create a class which named Bullet and add related settings about bullet in settings.py.
+
+
 ### 1.9 Summary
 
 
