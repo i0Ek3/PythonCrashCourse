@@ -28,18 +28,8 @@ def run_game():
 
     while True: #loop to update code on the screen
         gf.check_events(ship)
-
-        # follows codes replaced by check_events() in game_functions.py 
-        #  for event in pygame.event.get(): #visit event
-        #      if event.type == pygame.QUIT:
-        #          sys.exit() #exit the game
         ship.update()
         gf.update_screen(ai_settings, screen, ship)
-        # follows codes replaced by update_screen() in game_functions.py 
-        #  screen.fill(ai_settings.bg_color) #every time to loop to update screen, color defined by RGB range in 0~255.
-        #  ship.blitme()
-        #
-        #  pygame.display.flip() #make the screen visible which pictured on nearly
 
 run_game()
 

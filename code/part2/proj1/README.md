@@ -48,6 +48,9 @@ Then we should reconsitute check_events().
 
 ### 1.7 Review
 
+This knobble we should reviewed the codes what we created last time.
+
+
 ### 1.8 Shoot
 
 ### 1.9 Summary
