@@ -55,9 +55,24 @@ This knobble we should reviewed the codes what we created last time.
 
 Now we should add shoot function to airship. We need to create a class which named Bullet and add related settings about bullet in settings.py.
 
+We will create a group in alien_invasion.py to save valid bullets which is a instance of pygame.sprite.Group.
+
+Now we can control the airship to move to shoot bullet on the screen.
+
+![12-3](https://github.com/i0Ek3/PythonCrashCourse/blob/master/code/part2/proj1/pic/12-3.png)<br>
+
+Now we should deleted the bullets which is already vanished. Then limit the number of bullets, we set it in settings.py. Next we move this code in update_bullets() in game_functions.py.
+
+There are just three bullets shown on the screen before screen updated.
+
 
 ### 1.9 Summary
 
+In this chapter, you learned how to customized game develop, then use pygame to coding the basic frame of game, how to setting backgroud color and so on...
+
+Next chapter we will add alient to game. 
+
+Expecting....
 
 
 ## 2 Aliens
