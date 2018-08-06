@@ -1,6 +1,6 @@
 # PythonCrashCourse
 
-Python learning notes.This is not my first time to learn Python,but its my first time to write .py files on github.Uh..thats personally.
+Python learning notes. This is not my first time to learn Python,but its my first time to write .py files on github. Uh...that's cool, reference only!
 
 ```Python
 print("Hello Python!")
